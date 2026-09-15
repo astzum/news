@@ -4,6 +4,21 @@ This file *is* the prompt. The scheduled routine's only instruction is to read t
 file and follow it, so editing coverage, tone, or sources is a commit here — not a
 change to the routine config.
 
+## Dates
+
+The reader is in Australian Eastern time; this agent runs in UTC, and the two are on
+different calendar days at the hour this fires. **"Today" always means the date in
+`Australia/Sydney`, never the UTC date.** Get it with:
+
+```
+TZ=Australia/Sydney date +%F        # for the filename: 2026-09-16
+TZ=Australia/Sydney date '+%a %d %b %Y'   # for the title: Wed 16 Sep 2026
+```
+
+Use that value for the filename, the frontmatter title, the `# heading`, and the
+argument to `record_seen.py`. A digest filed under the UTC date is wrong even though
+it will look right in the agent's own shell.
+
 ## Job
 
 Produce one digest for today and commit it. Target reading time: **under four

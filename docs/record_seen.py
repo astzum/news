@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """Record every URL in a digest to seen.json, then prune entries older than 21 days.
 
-Usage: python3 docs/record_seen.py docs/digests/2026-09-14.md
+Usage: python3 docs/record_seen.py docs/digests/2026-09-16.md
+
+The window is measured off the digest's own filename date, not the clock, so this
+stays correct regardless of what timezone the agent happens to be running in.
 """
 import datetime
 import json
