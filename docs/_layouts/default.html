@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#101319">
+<title>{% if page.url != "/" %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+{% if page.summary %}<meta name="description" content="{{ page.summary }}">{% endif %}
+<style>
+/* Dark by default and on purpose: this is read on a phone, usually early. */
+:root {
+  --bg:      #101319;
+  --surface: #171b23;
+  --text:    #d6dbe4;
+  --muted:   #8b94a6;
+  --accent:  #7fb2f0;
+  --rule:    #262c38;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 17px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+        "Helvetica Neue", Arial, sans-serif;
+  /* Keep the measure short; long lines are the main thing that makes a
+     phone read badly. */
+  max-width: 36rem;
+  padding: 0 1.15rem 4rem;
+  margin-inline: auto;
+  overflow-wrap: break-word;
+}
+header.site {
+  padding: 1.5rem 0 1.25rem;
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 2rem;
+}
+header.site a {
+  color: var(--muted);
+  font-size: .82rem;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 600;
+}
+header.site a:hover { color: var(--accent); }
+h1 {
+  font-size: 1.7rem;
+  line-height: 1.2;
+  margin: 0 0 1.5rem;
+  letter-spacing: -.02em;
+}
+h2 {
+  font-size: .8rem;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  color: var(--muted);
+  font-weight: 700;
+  margin: 2.75rem 0 0;
+  padding-bottom: .5rem;
+  border-bottom: 1px solid var(--rule);
+}
+h3 {
+  font-size: 1.12rem;
+  line-height: 1.35;
+  margin: 1.75rem 0 .6rem;
+  letter-spacing: -.01em;
+}
+p { margin: 0 0 1rem; }
+a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+strong { color: #fff; font-weight: 650; }
+/* The "three that matter" lede and the index list */
+h1 + p { color: #e9edf4; }
+ul { padding-left: 0; list-style: none; margin: 0; }
+ul li {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--rule);
+  line-height: 1.5;
+}
+ul li a { font-weight: 600; text-decoration: none; }
+ul li a:hover { text-decoration: underline; }
+code {
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: .1em .35em;
+  font-size: .87em;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+blockquote {
+  margin: 1.25rem 0;
+  padding-left: 1rem;
+  border-left: 2px solid var(--rule);
+  color: var(--muted);
+}
+hr { border: 0; border-top: 1px solid var(--rule); margin: 2.5rem 0; }
+/* Source links sit on their own line after each item; quiet them down so the
+   prose leads. */
+p > a[href^="http"]:only-child { font-size: .87rem; color: var(--muted); }
+p > a[href^="http"]:only-child:hover { color: var(--accent); }
+</style>
+</head>
+<body>
+<header class="site"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></header>
+{{ content }}
+</body>
+</html>
