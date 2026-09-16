@@ -32,11 +32,14 @@ is a good day. If nothing happened, say so in two lines rather than padding.
    outlet. Follow-ups are fine only if there is genuinely new substance.
 2. Research the four beats below.
 3. Write `docs/digests/YYYY-MM-DD.md` in the format below.
-4. Run `python3 docs/record_seen.py docs/digests/YYYY-MM-DD.md` to add today's URLs
+4. Run `python3 docs/check_diversity.py` and read the result. If it flags the day,
+   fix the digest rather than the report — the usual fix is swapping one item for
+   something from a different organisation, not deleting an item.
+5. Run `python3 docs/record_seen.py docs/digests/YYYY-MM-DD.md` to add today's URLs
    to the ledger and age out anything past the window.
-5. Run `python3 docs/build_index.py` to regenerate `docs/index.md` from the digests'
+6. Run `python3 docs/build_index.py` to regenerate `docs/index.md` from the digests'
    frontmatter. Don't hand-edit the index; the script owns it.
-6. Commit all of it to `main` with the message `digest: YYYY-MM-DD`.
+7. Commit all of it to `main` with the message `digest: YYYY-MM-DD`.
 
 ## Beats
 
@@ -70,8 +73,35 @@ Primary, roughly in order of signal:
 - Hugging Face trending models
 - r/selfhosted and r/LocalLLaMA for the homelab beat
 
+Also sweep, so that one community's front page is not the de facto editor:
+Lobsters, LWN, r/programming, the Changelog, and the mailing lists or release notes of
+projects in the beats above — `mail.openjdk.org`-style primary channels regularly carry
+things days before an aggregator does.
+
 Search beyond this list when something breaks that these miss. The list is a floor,
 not a fence.
+
+## Source balance
+
+Diversity of *domains* is easy and nearly meaningless — a company's blog, its docs
+site, and its GitHub org are three domains and one source. What matters is diversity of
+organisations and of who surfaced the story.
+
+- **At most two items per organisation per digest.** Group by who publishes, not by
+  hostname: `blog.google` and `ai.google.dev` are one organisation.
+- **No beat may be sourced entirely from one organisation.** If a section's items all
+  come from the same place, go find an alternative before settling for it.
+- **No more than half the day's items should come from a single discovery channel.**
+  If most candidates surfaced via Hacker News, sweep the rest of the list properly
+  before writing — the primary-source rule makes the output *look* varied even when one
+  aggregator chose everything.
+- When a vendor dominates a day legitimately (a major release), say so in the item
+  rather than padding with unrelated filler to balance the count. Honest concentration
+  beats manufactured spread.
+
+`python3 docs/check_diversity.py` reports organisation concentration over recent
+digests. Run it after writing and read the output; if it flags the day, fix the digest
+rather than the report.
 
 ## Format
 
