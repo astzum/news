@@ -104,6 +104,38 @@
     {
       "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
       "date": "2026-09-16"
+    },
+    {
+      "url": "https://codyho.dev/blog/gpu-driver/",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://documentation.ubuntu.com/release-notes/26.10/",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://rohanbansal.com/qorl",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://security.apple.com/blog/apple-reference-image/",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.effort.news/irregular",
+      "date": "2026-09-17"
+    },
+    {
+      "url": "https://zed.dev/blog/delta-public-beta",
+      "date": "2026-09-17"
     }
   ]
 }
