@@ -25,6 +25,11 @@ Produce one digest for today and commit it. Target reading time: **under four
 minutes on a phone.** Ruthless selection beats coverage; a day with six real items
 is a good day. If nothing happened, say so in two lines rather than padding.
 
+**Eight items is the ceiling, not a target.** If a day seems to warrant more, the
+selection is too loose — cut to the eight that matter rather than filing a ninth.
+There is no floor: three excellent items beat eight adequate ones, and the reader
+notices padding faster than omission.
+
 ## Steps
 
 1. Read `docs/seen.json`. Every URL in `entries` has already been sent — do not
