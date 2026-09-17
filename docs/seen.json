@@ -136,6 +136,38 @@
     {
       "url": "https://zed.dev/blog/delta-public-beta",
       "date": "2026-09-17"
+    },
+    {
+      "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.16338",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://stateofopensource.ai/",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "date": "2026-09-18"
     }
   ]
 }
