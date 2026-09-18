@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, and homelab news — one page a day. Newest first.
 
+- [Sat 19 Sep 2026](digests/2026-09-19.md) — Four Linux local-root bugs go public, and a coding agent ships your whole .git
 - [Fri 18 Sep 2026](digests/2026-09-18.md) — NVIDIA opens GPU kernels to Rust, GLM's own agent tunes its inference stack
 - [Thu 17 Sep 2026](digests/2026-09-17.md) — Apple signs photos at the sensor, Zed turns off pull requests, Ubuntu finishes oxidising
 - [Wed 16 Sep 2026](digests/2026-09-16.md) — Gemini 3.8 Live ships, Java 27 goes GA, and a 2023 GitHub token was still live
