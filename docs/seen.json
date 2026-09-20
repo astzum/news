@@ -224,6 +224,38 @@
     {
       "url": "https://www.hacktron.ai/blog/hacking-openai",
       "date": "2026-09-20"
+    },
+    {
+      "url": "https://cognition.com/blog/factoring-rsa-260",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://github.com/ggml-org/llama.cpp/pull/28770",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v12.0",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://planetscale.com/blog/introducing-tin",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "https://www.theregister.com/off-prem/2026/09/16/aws-says-wartime-damage-means-some-middle-east-cloud-resources-are-gone-for-good/5296830",
+      "date": "2026-09-21"
     }
   ]
 }
