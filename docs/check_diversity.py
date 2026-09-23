@@ -58,7 +58,10 @@ def main():
             continue
         if date < cutoff:
             continue
-        orgs = [org(u) for u in re.findall(r"\]\((https?://[^)\s]+)\)", path.read_text())]
+        # The trending section is a GitHub listing, not sourced reporting. Counting
+        # its five github.com links would trip the per-org cap every single day.
+        body = re.split(r"\n## Trending on GitHub", path.read_text())[0]
+        orgs = [org(u) for u in re.findall(r"\]\((https?://[^)\s]+)\)", body)]
         per_digest[path.stem] = collections.Counter(orgs)
         window.update(orgs)
 

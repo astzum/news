@@ -30,6 +30,12 @@ selection is too loose — cut to the eight that matter rather than filing a nin
 There is no floor: three excellent items beat eight adequate ones, and the reader
 notices padding faster than omission.
 
+**Each item body is 65 words maximum.** This is a hard limit and the most commonly
+broken rule here — unchecked, item bodies drift to 180 words and the digest doubles
+in length. Two or three real sentences. If it will not fit, the item needs a sharper
+claim, not more room: say what happened and why it matters, and let the source link
+carry the detail. Whole digest should land near 700 words and must stay under 900.
+
 ## Steps
 
 1. Read `docs/seen.json`. Every URL in `entries` has already been sent — do not
@@ -37,9 +43,10 @@ notices padding faster than omission.
    outlet. Follow-ups are fine only if there is genuinely new substance.
 2. Research the four beats below.
 3. Write `docs/digests/YYYY-MM-DD.md` in the format below.
-4. Run `python3 docs/check_diversity.py` and read the result. If it flags the day,
-   fix the digest rather than the report — the usual fix is swapping one item for
-   something from a different organisation, not deleting an item.
+4. Run `python3 docs/check_length.py docs/digests/YYYY-MM-DD.md` and
+   `python3 docs/check_diversity.py`, and read both. If either flags the day, fix the
+   digest rather than the report — for length that means cutting words, not items;
+   for diversity it usually means swapping one item for another organisation.
 5. Run `python3 docs/record_seen.py docs/digests/YYYY-MM-DD.md` to add today's URLs
    to the ledger and age out anything past the window.
 6. Run `python3 docs/build_index.py` to regenerate `docs/index.md` from the digests'
@@ -66,6 +73,21 @@ on consumer hardware, NAS and hardware news. The bar: could this plausibly chang
 something on a three-node cluster with a Synology and a NUC that runs hot? If not,
 cut it.
 
+**Trending on GitHub.** Three to five repositories from
+`https://github.com/trending?since=weekly`, as a scan list rather than prose — this is
+the "what are people actually picking up" section, and it earns its place by being
+fast to read. One line each: what it does in under twelve words, primary language,
+stars gained. Round star counts (`+12.6k`, not `+12,590`).
+
+Skip anything already in `seen.json`, which suppresses a repo for 21 days after it
+appears — a repo that trends for three straight weeks is not news on day two. If that
+leaves fewer than three, show fewer; never pad the list. Skip repos whose description
+is missing or pure marketing, and prefer things someone with a homelab or a coding
+agent could plausibly use over corporate monorepos with a launch push behind them.
+
+This section is exempt from the eight-item ceiling — those are `###` items, these are
+bullets.
+
 ## Sources to sweep
 
 Primary, roughly in order of signal:
@@ -75,7 +97,7 @@ Primary, roughly in order of signal:
 - Hacker News front page and `news.ycombinator.com/best`
 - Kubernetes blog and CNCF announcements; the release notes of anything running in
   this cluster (ArgoCD, Grafana, Loki, Prometheus, Pi-hole, ntfy, Home Assistant)
-- Hugging Face trending models
+- Hugging Face trending models; `github.com/trending?since=weekly` for the repo list
 - r/selfhosted and r/LocalLLaMA for the homelab beat
 
 Also sweep, so that one community's front page is not the de facto editor:
@@ -136,6 +158,11 @@ building with this stuff. Never restate the headline in the body.>
 
 ## Homelab
 ...
+
+## Trending on GitHub
+
+- **[owner/repo](https://github.com/owner/repo)** — what it is, under 12 words. `Go` · +12.6k
+- **[owner/repo](https://github.com/owner/repo)** — what it is, under 12 words. `Python` · +4.2k
 ```
 
 Drop any section with nothing worth reporting — an empty heading is noise. Order
