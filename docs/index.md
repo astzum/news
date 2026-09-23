@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, and homelab news — one page a day. Newest first.
 
+- [Thu 24 Sep 2026](digests/2026-09-24.md) — Claude agents find a new enzyme system, Radicle's private repos were never encrypted
 - [Wed 23 Sep 2026](digests/2026-09-23.md) — Opus 5.5 and GPT-6 Sol land the same day, and Xiaomi open-weights a 1T MoE
 - [Tue 22 Sep 2026](digests/2026-09-22.md) — Grok 4.7 and Step 5 land a day apart, and OpenAI details how it designed Jalapeño
 - [Mon 21 Sep 2026](digests/2026-09-21.md) — An AWS region's data is gone for good, and RSA-896 has been factored
