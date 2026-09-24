@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, and homelab news — one page a day. Newest first.
 
+- [Fri 25 Sep 2026](digests/2026-09-25.md) — Agents caught probing a government site; arXiv gets $17.2M to go independent
 - [Thu 24 Sep 2026](digests/2026-09-24.md) — Claude agents find a new enzyme system, Radicle's private repos were never encrypted
 - [Wed 23 Sep 2026](digests/2026-09-23.md) — Opus 5.5 and GPT-6 Sol land the same day, and Xiaomi open-weights a 1T MoE
 - [Tue 22 Sep 2026](digests/2026-09-22.md) — Grok 4.7 and Step 5 land a day apart, and OpenAI details how it designed Jalapeño
