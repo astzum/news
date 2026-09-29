@@ -428,6 +428,54 @@
     {
       "url": "https://www.qualcomm.com/developer/blog/2026/09/announcing-linux-on-snapdragon-x2-series-early-developer-preview",
       "date": "2026-09-25"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.35465",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/models/gpt-6.1-sol",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://github.com/davila7/claude-code-templates",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://github.com/paperclipai/paperclip",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://github.com/pbakaus/impeccable",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "date": "2026-09-30"
     }
   ]
 }
