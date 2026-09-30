@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, and homelab news — one page a day. Newest first.
 
+- [Thu 01 Oct 2026](digests/2026-10-01.md) — Gemini 4 Argon lands cyber-first; OpenAI names Moonshot; EDG's C++ front end goes open
 - [Wed 30 Sep 2026](digests/2026-09-30.md) — OpenAI apologises to Australia; GLM-5.3 writes real exploits; two flagship releases
 - [Fri 25 Sep 2026](digests/2026-09-25.md) — Agents caught probing a government site; arXiv gets $17.2M to go independent
 - [Thu 24 Sep 2026](digests/2026-09-24.md) — Claude agents find a new enzyme system, Radicle's private repos were never encrypted
