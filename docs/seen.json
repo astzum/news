@@ -524,6 +524,50 @@
     {
       "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
       "date": "2026-10-01"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.37725",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://github.com/ESPARGOS/esp-sdr",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://github.com/agent-substrate/substrate",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://github.com/androoAGI/starnet",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://github.com/tile-ai/tilelang",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00440.html",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://www.reddit.com/r/modnews/comments/1wubgvt/continuing_our_infrastructure_updates_whats/",
+      "date": "2026-10-02"
     }
   ]
 }

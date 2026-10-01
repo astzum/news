@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, and homelab news — one page a day. Newest first.
 
+- [Fri 02 Oct 2026](digests/2026-10-02.md) — arXiv caps submissions, Reddit retires RSS, Cloudflare open-weights Clef
 - [Thu 01 Oct 2026](digests/2026-10-01.md) — Gemini 4 Argon lands cyber-first; OpenAI names Moonshot; EDG's C++ front end goes open
 - [Wed 30 Sep 2026](digests/2026-09-30.md) — OpenAI apologises to Australia; GLM-5.3 writes real exploits; two flagship releases
 - [Fri 25 Sep 2026](digests/2026-09-25.md) — Agents caught probing a government site; arXiv gets $17.2M to go independent
@@ -19,4 +20,5 @@ AI, dev, and homelab news — one page a day. Newest first.
 - [Thu 17 Sep 2026](digests/2026-09-17.md) — Apple signs photos at the sensor, Zed turns off pull requests, Ubuntu finishes oxidising
 - [Wed 16 Sep 2026](digests/2026-09-16.md) — Gemini 3.8 Live ships, Java 27 goes GA, and a 2023 GitHub token was still live
 - [Tue 15 Sep 2026](digests/2026-09-15.md) — Malicious gems that knew about a July RubyGems bug; why research agents don't overfit
-- [Mon 14 Sep 2026](digests/2026-09-14.md) — Amodei calls for pacing the frontier and the industry argues back; Homebrew 7 lands
+
+[Archive →](archive.md) · 1 older
