@@ -568,6 +568,46 @@
     {
       "url": "https://www.reddit.com/r/modnews/comments/1wubgvt/continuing_our_infrastructure_updates_whats/",
       "date": "2026-10-02"
+    },
+    {
+      "url": "https://allenai.org/blog/olmocore3",
+      "date": "2026-10-03"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.02001",
+      "date": "2026-10-03"
+    },
+    {
+      "url": "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
+      "date": "2026-10-03"
+    },
+    {
+      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "date": "2026-10-03"
+    },
+    {
+      "url": "https://github.com/google/ax",
+      "date": "2026-10-03"
+    },
+    {
+      "url": "https://github.com/heygen-com/hyperframes",
+      "date": "2026-10-03"
+    },
+    {
+      "url": "https://github.com/pablostanley/yoinks",
+      "date": "2026-10-03"
+    },
+    {
+      "url": "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
+      "date": "2026-10-03"
+    },
+    {
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "date": "2026-10-03"
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "date": "2026-10-03"
     }
   ]
 }
