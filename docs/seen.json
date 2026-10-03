@@ -608,6 +608,54 @@
     {
       "url": "https://www.anthropic.com/news/claude-frontier-academy",
       "date": "2026-10-03"
+    },
+    {
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://dwarfstar.sh/",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://github.com/Effect-TS/effect",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://github.com/longbridge/gpui-kit",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://www.deepseek.com/en/harness/",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-026-11036-y",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "date": "2026-10-04"
     }
   ]
 }
