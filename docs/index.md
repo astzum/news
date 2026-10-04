@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, and homelab news — one page a day. Newest first.
 
+- [Mon 05 Oct 2026](digests/2026-10-05.md) — Google's OSS bug bounty stops taking reports, 125B on a 12GB card, a git-hook attack
 - [Sun 04 Oct 2026](digests/2026-10-04.md) — Stratego falls on 16 GPUs, Kolibri ships Apache-2.0, Google hands gVisor to the CNCF
 - [Sat 03 Oct 2026](digests/2026-10-03.md) — llama.cpp serves decision models, Rust 1.99, GitHub throttles slop CVE reports
 - [Fri 02 Oct 2026](digests/2026-10-02.md) — arXiv caps submissions, Reddit retires RSS, Cloudflare open-weights Clef
@@ -19,6 +20,5 @@ AI, dev, and homelab news — one page a day. Newest first.
 - [Sun 20 Sep 2026](digests/2026-09-20.md) — Four labs sued for agreeing to slow down, and Git 3.0 won't build without Rust
 - [Sat 19 Sep 2026](digests/2026-09-19.md) — Four Linux local-root bugs go public, and a coding agent ships your whole .git
 - [Fri 18 Sep 2026](digests/2026-09-18.md) — NVIDIA opens GPU kernels to Rust, GLM's own agent tunes its inference stack
-- [Thu 17 Sep 2026](digests/2026-09-17.md) — Apple signs photos at the sensor, Zed turns off pull requests, Ubuntu finishes oxidising
 
-[Archive →](archive.md) · 3 older
+[Archive →](archive.md) · 4 older
