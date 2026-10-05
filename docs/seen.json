@@ -2,42 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-      "date": "2026-09-14"
-    },
-    {
-      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-      "date": "2026-09-14"
-    },
-    {
-      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
-      "date": "2026-09-14"
-    },
-    {
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "date": "2026-09-14"
-    },
-    {
-      "url": "https://kubernetes.io/releases/",
-      "date": "2026-09-14"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "date": "2026-09-14"
-    },
-    {
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "date": "2026-09-14"
-    },
-    {
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "date": "2026-09-14"
-    },
-    {
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "date": "2026-09-14"
-    },
-    {
       "url": "https://andonlabs.com/blog/why-we-built-pion",
       "date": "2026-09-15"
     },
@@ -700,6 +664,50 @@
     {
       "url": "https://github.com/mvschwarz/openrig",
       "date": "2026-10-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.03509",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://github.com/Gaurav-Gosain/tuios",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://github.com/caddyserver/caddy",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://github.com/cursor/plugins",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "date": "2026-10-06"
     }
   ]
 }

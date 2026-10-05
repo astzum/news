@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, and homelab news — one page a day. Newest first.
 
+- [Tue 06 Oct 2026](digests/2026-10-06.md) — A 501B open-weight model from Reflection, mold rewritten in Rust, 8.8M Danes exposed
 - [Mon 05 Oct 2026](digests/2026-10-05.md) — Google's OSS bug bounty stops taking reports, 125B on a 12GB card, a git-hook attack
 - [Sun 04 Oct 2026](digests/2026-10-04.md) — Stratego falls on 16 GPUs, Kolibri ships Apache-2.0, Google hands gVisor to the CNCF
 - [Sat 03 Oct 2026](digests/2026-10-03.md) — llama.cpp serves decision models, Rust 1.99, GitHub throttles slop CVE reports
@@ -19,6 +20,5 @@ AI, dev, and homelab news — one page a day. Newest first.
 - [Mon 21 Sep 2026](digests/2026-09-21.md) — An AWS region's data is gone for good, and RSA-896 has been factored
 - [Sun 20 Sep 2026](digests/2026-09-20.md) — Four labs sued for agreeing to slow down, and Git 3.0 won't build without Rust
 - [Sat 19 Sep 2026](digests/2026-09-19.md) — Four Linux local-root bugs go public, and a coding agent ships your whole .git
-- [Fri 18 Sep 2026](digests/2026-09-18.md) — NVIDIA opens GPU kernels to Rust, GLM's own agent tunes its inference stack
 
-[Archive →](archive.md) · 4 older
+[Archive →](archive.md) · 5 older
