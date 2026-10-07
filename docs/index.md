@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Thu 08 Oct 2026](digests/2026-10-08.md) — curl ships early for a HIGH CVE, Chrome gets JPEG XL in Rust, DGX Spark nearly doubles
 - [Wed 07 Oct 2026](digests/2026-10-07.md) — Root KSK rolls on Oct 11, OpenSSH guts compression, Mistral Large 4 at 1T params
 - [Tue 06 Oct 2026](digests/2026-10-06.md) — A 501B open-weight model from Reflection, mold rewritten in Rust, 8.8M Danes exposed
 - [Mon 05 Oct 2026](digests/2026-10-05.md) — Google's OSS bug bounty stops taking reports, 125B on a 12GB card, a git-hook attack
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Wed 23 Sep 2026](digests/2026-09-23.md) — Opus 5.5 and GPT-6 Sol land the same day, and Xiaomi open-weights a 1T MoE
 - [Tue 22 Sep 2026](digests/2026-09-22.md) — Grok 4.7 and Step 5 land a day apart, and OpenAI details how it designed Jalapeño
 - [Mon 21 Sep 2026](digests/2026-09-21.md) — An AWS region's data is gone for good, and RSA-896 has been factored
-- [Sun 20 Sep 2026](digests/2026-09-20.md) — Four labs sued for agreeing to slow down, and Git 3.0 won't build without Rust
 
-[Archive →](archive.md) · 6 older
+[Archive →](archive.md) · 7 older
