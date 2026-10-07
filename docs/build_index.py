@@ -61,7 +61,7 @@ def main():
         "",
         "# Daily Digest",
         "",
-        "AI, dev, and homelab news — one page a day. Newest first.",
+        "AI, dev, homelab, hardware, and science news — one page a day. Newest first.",
         "",
     ]
     body.extend(rows_for(recent) or ["*No digests yet.*"])

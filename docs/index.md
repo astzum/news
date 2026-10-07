@@ -4,7 +4,7 @@ title: "Daily Digest"
 
 # Daily Digest
 
-AI, dev, and homelab news — one page a day. Newest first.
+AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
 - [Wed 07 Oct 2026](digests/2026-10-07.md) — Root KSK rolls on Oct 11, OpenSSH guts compression, Mistral Large 4 at 1T params
 - [Tue 06 Oct 2026](digests/2026-10-06.md) — A 501B open-weight model from Reflection, mold rewritten in Rust, 8.8M Danes exposed

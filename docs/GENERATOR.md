@@ -41,7 +41,7 @@ carry the detail. Whole digest should land near 700 words and must stay under 90
 1. Read `docs/seen.json`. Every URL in `entries` has already been sent — do not
    repeat those stories, and do not repeat the *same story* reported by a different
    outlet. Follow-ups are fine only if there is genuinely new substance.
-2. Research the four beats below.
+2. Research the beats below.
 3. Write `docs/digests/YYYY-MM-DD.md` in the format below.
 4. Run `python3 docs/check_length.py docs/digests/YYYY-MM-DD.md` and
    `python3 docs/check_diversity.py`, and read both. If either flags the day, fix the
@@ -54,6 +54,12 @@ carry the detail. Whole digest should land near 700 words and must stay under 90
 7. Commit all of it to `main` with the message `digest: YYYY-MM-DD`.
 
 ## Beats
+
+**AI gets at most four items a day, across both AI beats combined** — local-model
+items under Homelab count toward that too. Left alone, AI fills half the digest
+because it has the most volume, not the most value; the cap exists so Science +
+space and Hardware get real slots. On a genuinely huge AI day, cut the weaker AI
+item rather than lifting the cap.
 
 **AI research + releases.** New models and model cards, capability and safety
 evaluations, notable arXiv papers, inference and training technique that a working
@@ -72,6 +78,18 @@ teach something durable — so include them even when the incident is a few days
 on consumer hardware, NAS and hardware news. The bar: could this plausibly change
 something on a three-node cluster with a Synology and a NUC that runs hot? If not,
 cut it.
+
+**Hardware.** CPUs, GPUs, memory and storage — launches, independent benchmarks and
+teardowns, price moves, ARM and RISC-V boards, chip fabs and supply. Prefer reviews
+with measured numbers over spec-sheet launch coverage. Hardware aimed squarely at
+home servers belongs under Homelab; this beat is the wider industry. GPUs pitched
+for AI belong here only when the story is the hardware, not the model.
+
+**Science + space.** Notable results in physics, biology, medicine, climate and
+astronomy; launches, missions and spacecraft news. This beat is for curiosity, not
+utility — one or two items a day, chosen because they are genuinely surprising or
+consequential. Cite the paper or the agency's own release over the press writeup,
+and say plainly when a result is preliminary, a preprint, or a single small study.
 
 **Trending on GitHub.** Three to five repositories from
 `https://github.com/trending?since=weekly`, as a scan list rather than prose — this is
@@ -99,6 +117,10 @@ Primary, roughly in order of signal:
   this cluster (ArgoCD, Grafana, Loki, Prometheus, Pi-hole, ntfy, Home Assistant)
 - Hugging Face trending models; `github.com/trending?since=weekly` for the repo list
 - r/selfhosted and r/LocalLLaMA for the homelab beat
+- Hardware: Chips and Cheese, ServeTheHome, Phoronix benchmarks, AnandTech-style
+  reviews from whoever still does them, and vendors' own launch posts
+- Science + space: Nature and Science news sections, Quanta, Ars Technica science,
+  NASA, ESA, CSIRO, the Australian Space Agency, and SpaceFlightNow for launches
 
 Also sweep, so that one community's front page is not the de facto editor:
 Lobsters, LWN, r/programming, the Changelog, and the mailing lists or release notes of
@@ -157,6 +179,12 @@ building with this stuff. Never restate the headline in the body.>
 ...
 
 ## Homelab
+...
+
+## Hardware
+...
+
+## Science + space
 ...
 
 ## Trending on GitHub
