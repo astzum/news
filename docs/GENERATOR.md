@@ -95,11 +95,22 @@ and say plainly when a result is preliminary, a preprint, or a single small stud
 `https://github.com/trending?since=weekly`, as a scan list rather than prose — this is
 the "what are people actually picking up" section, and it earns its place by being
 fast to read. One line each: what it does in under twelve words, primary language,
-stars gained. Round star counts (`+12.6k`, not `+12,590`).
+stars gained. Round star counts (`+12.6k/wk`, not `+12,590`).
 
 Skip anything already in `seen.json`, which suppresses a repo for 21 days after it
-appears — a repo that trends for three straight weeks is not news on day two. If that
-leaves fewer than three, show fewer; never pad the list. Skip repos whose description
+appears — a repo that trends for three straight weeks is not news on day two.
+
+That filter empties the weekly page fast: it lists only a dozen or so repos and most
+trend for weeks, so on 2026-10-08 ten of eleven were already seen and the section
+vanished. **Build the candidate pool wider before filtering:** also sweep
+`github.com/trending?since=daily` and the per-language weekly pages for `python`,
+`go`, `rust`, `typescript` and `c++` (e.g. `github.com/trending/rust?since=weekly`).
+Use stars gained over whichever period the repo was found on, and label it
+(`+3.1k/wk` or `+900/day`).
+
+The section is expected every day. Show three to five; if the wider pool still
+leaves fewer, show what qualifies — even one bullet — and only drop the section when
+nothing at all survives. Never pad with repos that fail the bar below. Skip repos whose description
 is missing or pure marketing, and prefer things someone with a homelab or a coding
 agent could plausibly use over corporate monorepos with a launch push behind them.
 
@@ -189,8 +200,8 @@ building with this stuff. Never restate the headline in the body.>
 
 ## Trending on GitHub
 
-- **[owner/repo](https://github.com/owner/repo)** — what it is, under 12 words. `Go` · +12.6k
-- **[owner/repo](https://github.com/owner/repo)** — what it is, under 12 words. `Python` · +4.2k
+- **[owner/repo](https://github.com/owner/repo)** — what it is, under 12 words. `Go` · +12.6k/wk
+- **[owner/repo](https://github.com/owner/repo)** — what it is, under 12 words. `Python` · +900/day
 ```
 
 Drop any section with nothing worth reporting — an empty heading is noise. Order
