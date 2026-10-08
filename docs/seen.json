@@ -2,38 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://codyho.dev/blog/gpu-driver/",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://documentation.ubuntu.com/release-notes/26.10/",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://rohanbansal.com/qorl",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://security.apple.com/blog/apple-reference-image/",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://www.effort.news/irregular",
-      "date": "2026-09-17"
-    },
-    {
-      "url": "https://zed.dev/blog/delta-public-beta",
-      "date": "2026-09-17"
-    },
-    {
       "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
       "date": "2026-09-18"
     },
@@ -720,6 +688,58 @@
     {
       "url": "https://www.servethehome.com/nvidia-dgx-spark-64gb-launched-and-big-128gb-gb10-price-increases/",
       "date": "2026-10-08"
+    },
+    {
+      "url": "https://cactuscompute.com/blog/whistle",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://chipsandcheese.com/p/nvidias-olympus-core-pushing-server",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://github.com/EpicGames/raddebugger",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://github.com/ggml-org/llama.cpp/pull/29887",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://github.com/mattpocock/skills",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://github.com/morluto/rea",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://github.com/openai/math/blob/main/history.md",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://github.com/p-e-w/heretic",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://github.com/t8y2/dbx",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://lore.kernel.org/linux-ext4/ase1cbY1IuELJ7jQ@mit.edu/",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://lore.kernel.org/linux-mm/20261008182814.27450-1-kanchanapsridhar2026@gmail.com/",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
+      "date": "2026-10-09"
     }
   ]
 }
