@@ -2,38 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.16338",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://stateofopensource.ai/",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-      "date": "2026-09-18"
-    },
-    {
-      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "date": "2026-09-18"
-    },
-    {
       "url": "https://arxiv.org/abs/2609.20804",
       "date": "2026-09-19"
     },
@@ -740,6 +708,62 @@
     {
       "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
       "date": "2026-10-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.08144",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://deno.com/blog/cloudflare",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://github.com/cjpais/Handy",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://github.com/eolix/photosuite",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://github.com/pocket-id/pocket-id",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://github.com/ys-ll/uniterm",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-026-11084-4",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-026-11122-1",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.python.org/downloads/release/python-3150/",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/",
+      "date": "2026-10-10"
     }
   ]
 }
