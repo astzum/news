@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Sun 11 Oct 2026](digests/2026-10-11.md) — Typesafe AI raises $870M, probes catch model deception, SQLite 3.54
 - [Sat 10 Oct 2026](digests/2026-10-10.md) — Cloudflare buys Deno and sunsets the runtime, Python 3.15, two thorium nuclear clocks
 - [Fri 09 Oct 2026](digests/2026-10-09.md) — OpenAI withdraws three AI maths papers, ext4 drops data=journal, Webb's farthest FRB
 - [Thu 08 Oct 2026](digests/2026-10-08.md) — curl ships early for a HIGH CVE, Chrome gets JPEG XL in Rust, DGX Spark nearly doubles
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Wed 30 Sep 2026](digests/2026-09-30.md) — OpenAI apologises to Australia; GLM-5.3 writes real exploits; two flagship releases
 - [Fri 25 Sep 2026](digests/2026-09-25.md) — Agents caught probing a government site; arXiv gets $17.2M to go independent
 - [Thu 24 Sep 2026](digests/2026-09-24.md) — Claude agents find a new enzyme system, Radicle's private repos were never encrypted
-- [Wed 23 Sep 2026](digests/2026-09-23.md) — Opus 5.5 and GPT-6 Sol land the same day, and Xiaomi open-weights a 1T MoE
 
-[Archive →](archive.md) · 9 older
+[Archive →](archive.md) · 10 older
