@@ -2,34 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://arxiv.org/abs/2609.20812",
-      "date": "2026-09-20"
-    },
-    {
-      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-      "date": "2026-09-20"
-    },
-    {
-      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "date": "2026-09-20"
-    },
-    {
-      "url": "https://github.com/git/git/blob/v2.56.0-rc1/Documentation/BreakingChanges.adoc",
-      "date": "2026-09-20"
-    },
-    {
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "date": "2026-09-20"
-    },
-    {
-      "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.479357/gov.uscourts.cand.479357.1.0.pdf",
-      "date": "2026-09-20"
-    },
-    {
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "date": "2026-09-20"
-    },
-    {
       "url": "https://cognition.com/blog/factoring-rsa-260",
       "date": "2026-09-21"
     },
@@ -792,6 +764,58 @@
     {
       "url": "https://www.unison-lang.org/blog/unison-cloud-open-source/",
       "date": "2026-10-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.05978",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://esahubble.org/news/heic2613/",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://github.com/littledivy/mimic",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://github.com/osandov/drgn/releases/tag/v0.3.0",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://github.com/xingkongliang/skills-manager",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://github.com/zerx-lab/FluxDown",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41550-026-02983-7",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.trendforce.com/presscenter/news/20261008-13264.html",
+      "date": "2026-10-12"
     }
   ]
 }
