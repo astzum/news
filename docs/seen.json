@@ -2,38 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://cognition.com/blog/factoring-rsa-260",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://github.com/ggml-org/llama.cpp/pull/28770",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v12.0",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://planetscale.com/blog/introducing-tin",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://saweis.net/posts/rsa-896.html",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "date": "2026-09-21"
-    },
-    {
-      "url": "https://www.theregister.com/off-prem/2026/09/16/aws-says-wartime-damage-means-some-middle-east-cloud-resources-are-gone-for-good/5296830",
-      "date": "2026-09-21"
-    },
-    {
       "url": "https://canonical.com/blog/zephyr-lts-announcement",
       "date": "2026-09-22"
     },
@@ -816,6 +784,54 @@
     {
       "url": "https://www.trendforce.com/presscenter/news/20261008-13264.html",
       "date": "2026-10-12"
+    },
+    {
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://github.com/colinhacks/zod/releases/tag/v4.6.6",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://github.com/mksglu/context-mode",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://github.com/xerj-org/xerj",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://lwn.net/Articles/1099594/",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://words.filippo.io/right-answers/",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.anthropic.com/research/self-replicating-ai",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.financialcontent.com/article/bizwire-2026-10-12-intel-accelerates-open-infrastructure-for-the-agentic-ai-era",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.servethehome.com/intels-crescent-island-ai-server-gpu-gets-a-name-and-specs-meet-the-intel-gpu-d-series/",
+      "date": "2026-10-13"
     }
   ]
 }
