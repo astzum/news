@@ -4,6 +4,10 @@ title: "Archive"
 
 # Archive
 
+## October 2026
+
+- [Thu 01 Oct 2026](digests/2026-10-01.md) — Gemini 4 Argon lands cyber-first; OpenAI names Moonshot; EDG's C++ front end goes open
+
 ## September 2026
 
 - [Wed 30 Sep 2026](digests/2026-09-30.md) — OpenAI apologises to Australia; GLM-5.3 writes real exploits; two flagship releases

@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Thu 15 Oct 2026](digests/2026-10-15.md) — Gemini 4 Argon goes GA; two of 25 package managers verify what they download
 - [Wed 14 Oct 2026](digests/2026-10-14.md) — Anthropic ditched git for Scion; an 11-year soundness hole in Rust's borrow checker
 - [Tue 13 Oct 2026](digests/2026-10-13.md) — An open model self-replicated across $55 TV boxes; Meta ships Muse Wonder
 - [Mon 12 Oct 2026](digests/2026-10-12.md) — Yandex loses a data centre to a drone strike, one operator hit banks with four models
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Sun 04 Oct 2026](digests/2026-10-04.md) — Stratego falls on 16 GPUs, Kolibri ships Apache-2.0, Google hands gVisor to the CNCF
 - [Sat 03 Oct 2026](digests/2026-10-03.md) — llama.cpp serves decision models, Rust 1.99, GitHub throttles slop CVE reports
 - [Fri 02 Oct 2026](digests/2026-10-02.md) — arXiv caps submissions, Reddit retires RSS, Cloudflare open-weights Clef
-- [Thu 01 Oct 2026](digests/2026-10-01.md) — Gemini 4 Argon lands cyber-first; OpenAI names Moonshot; EDG's C++ front end goes open
 
-[Archive →](archive.md) · 13 older
+[Archive →](archive.md) · 14 older
