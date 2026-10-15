@@ -6,6 +6,7 @@ title: "Archive"
 
 ## October 2026
 
+- [Fri 02 Oct 2026](digests/2026-10-02.md) — arXiv caps submissions, Reddit retires RSS, Cloudflare open-weights Clef
 - [Thu 01 Oct 2026](digests/2026-10-01.md) — Gemini 4 Argon lands cyber-first; OpenAI names Moonshot; EDG's C++ front end goes open
 
 ## September 2026

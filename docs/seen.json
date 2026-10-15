@@ -2,58 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://code.claude.com/docs/en/memory",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://github.com/JustVugg/colibri",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://github.com/Tencent/WeKnora",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://github.com/alibaba/open-code-review",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://parquet.apache.org/blog/2026/09/22/alp-adaptive-lossless-floating-point-encoding-in-apache-parquet/",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "date": "2026-09-24"
-    },
-    {
       "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
       "date": "2026-09-25"
     },
@@ -856,6 +804,54 @@
     {
       "url": "https://www.servethehome.com/amd-epyc-8005-sku-list-and-value-analysis-mainstream-soranos-big-stride/",
       "date": "2026-10-15"
+    },
+    {
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://documentation.ubuntu.com/release-notes/26.10/",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://github.com/KittenML/KittenTTS",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://github.com/farion1231/cc-switch",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://github.com/rommapp/romm",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://github.com/vosen/ZLUDA",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.memtest.org/",
+      "date": "2026-10-16"
     }
   ]
 }
