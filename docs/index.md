@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Sat 17 Oct 2026](digests/2026-10-17.md) — Kernel deletes its AI-attribution tag; leap seconds get an end date
 - [Fri 16 Oct 2026](digests/2026-10-16.md) — Spyware delivered through ad inventory at scale; Meta open-weights an 816B model
 - [Thu 15 Oct 2026](digests/2026-10-15.md) — Gemini 4 Argon goes GA; two of 25 package managers verify what they download
 - [Wed 14 Oct 2026](digests/2026-10-14.md) — Anthropic ditched git for Scion; an 11-year soundness hole in Rust's borrow checker
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Tue 06 Oct 2026](digests/2026-10-06.md) — A 501B open-weight model from Reflection, mold rewritten in Rust, 8.8M Danes exposed
 - [Mon 05 Oct 2026](digests/2026-10-05.md) — Google's OSS bug bounty stops taking reports, 125B on a 12GB card, a git-hook attack
 - [Sun 04 Oct 2026](digests/2026-10-04.md) — Stratego falls on 16 GPUs, Kolibri ships Apache-2.0, Google hands gVisor to the CNCF
-- [Sat 03 Oct 2026](digests/2026-10-03.md) — llama.cpp serves decision models, Rust 1.99, GitHub throttles slop CVE reports
 
-[Archive →](archive.md) · 15 older
+[Archive →](archive.md) · 16 older
