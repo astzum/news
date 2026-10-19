@@ -6,6 +6,7 @@ title: "Archive"
 
 ## October 2026
 
+- [Tue 06 Oct 2026](digests/2026-10-06.md) — A 501B open-weight model from Reflection, mold rewritten in Rust, 8.8M Danes exposed
 - [Mon 05 Oct 2026](digests/2026-10-05.md) — Google's OSS bug bounty stops taking reports, 125B on a 12GB card, a git-hook attack
 - [Sun 04 Oct 2026](digests/2026-10-04.md) — Stratego falls on 16 GPUs, Kolibri ships Apache-2.0, Google hands gVisor to the CNCF
 - [Sat 03 Oct 2026](digests/2026-10-03.md) — llama.cpp serves decision models, Rust 1.99, GitHub throttles slop CVE reports
