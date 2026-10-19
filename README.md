@@ -1,7 +1,20 @@
 # news
 
-One page a day of AI, dev, and homelab news, researched and committed by a scheduled
-Claude routine. Start at [`docs/index.md`](docs/index.md).
+One page a day per edition, researched and committed by a scheduled Claude run each
+morning at 7am Sydney time:
+
+| Edition | Spec | Front page |
+|---|---|---|
+| Tech: AI, dev, homelab, hardware, science | `docs/GENERATOR.md` | [`docs/index.md`](docs/index.md) |
+| World + Sydney | `docs/world/GENERATOR.md` | [`docs/world/index.md`](docs/world/index.md) |
+| Sport: EPL, F1, cycling, NBA, NFL | `docs/sport/GENERATOR.md` | [`docs/sport/index.md`](docs/sport/index.md) |
+| Gaming | `docs/gaming/GENERATOR.md` | [`docs/gaming/index.md`](docs/gaming/index.md) |
+
+The editions run in parallel and each has its own `digests/`, `seen.json` and index.
+Per-edition word budgets and scan-list sections live in `docs/editions.py`, which the
+helper scripts below all read. To add an edition, add it there, write its
+`GENERATOR.md`, add a tab in `docs/_layouts/default.html`, and add a line to
+`EDITIONS` in the runner script.
 
 ## How it works
 
@@ -28,7 +41,7 @@ primary source or dropped.
 
 ## Making something reappear
 
-Delete its URL from `docs/seen.json`.
+Delete its URL from that edition's `seen.json` (`docs/seen.json` for Tech).
 
 ## Pages
 

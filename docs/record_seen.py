@@ -2,6 +2,10 @@
 """Record every URL in a digest to seen.json, then prune entries older than 21 days.
 
 Usage: python3 docs/record_seen.py docs/digests/2026-09-16.md
+       python3 docs/record_seen.py docs/sport/digests/2026-09-16.md
+
+Each edition keeps its own ledger next to its digests/ directory, so a story can
+appear once in Tech and once in World without either suppressing the other.
 
 The window is measured off the digest's own filename date, not the clock, so this
 stays correct regardless of what timezone the agent happens to be running in.
@@ -12,8 +16,6 @@ import pathlib
 import re
 import sys
 
-DOCS = pathlib.Path(__file__).parent
-LEDGER = DOCS / "seen.json"
 WINDOW_DAYS = 21
 
 
@@ -22,6 +24,9 @@ def main():
         sys.exit("usage: record_seen.py <digest.md>")
     digest = pathlib.Path(sys.argv[1])
     date = digest.stem
+    LEDGER = digest.resolve().parent.parent / "seen.json"
+    if not LEDGER.exists():
+        LEDGER.write_text('{"entries": []}\n')
 
     urls = sorted(set(re.findall(r"\]\((https?://[^)\s]+)\)", digest.read_text())))
 

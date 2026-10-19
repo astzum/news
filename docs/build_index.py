@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Regenerate docs/index.md and docs/archive.md from digest frontmatter.
 
+Usage: python3 docs/build_index.py [edition]   (default: tech; see editions.py)
+
 Run after writing a new digest. Keeping this as a script rather than asking the
 model to rewrite the index by hand means it can't silently drift.
 
@@ -11,9 +13,9 @@ everything older lives in archive.md, grouped by month.
 import datetime
 import pathlib
 import re
+import sys
 
-DOCS = pathlib.Path(__file__).parent
-DIGESTS = DOCS / "digests"
+from editions import EDITIONS, root
 
 # Enough to catch up after a holiday, short enough to thumb through on a phone.
 RECENT_DAYS = 14
@@ -39,6 +41,13 @@ def rows_for(entries):
 
 
 def main():
+    name = sys.argv[1] if len(sys.argv) > 1 else "tech"
+    if name not in EDITIONS:
+        sys.exit(f"unknown edition {name!r}; one of {', '.join(EDITIONS)}")
+    ed = EDITIONS[name]
+    DOCS = root(name)
+    DIGESTS = DOCS / "digests"
+
     entries = []
     for path in sorted(DIGESTS.glob("*.md"), reverse=True):
         stem = path.stem
@@ -56,12 +65,12 @@ def main():
 
     body = [
         "---",
-        'title: "Daily Digest"',
+        f'title: "{ed["title"]}"',
         "---",
         "",
-        "# Daily Digest",
+        "# " + ed["title"],
         "",
-        "AI, dev, homelab, hardware, and science news — one page a day. Newest first.",
+        ed["blurb"],
         "",
     ]
     body.extend(rows_for(recent) or ["*No digests yet.*"])
@@ -90,7 +99,7 @@ def main():
         arch.append("")
     (DOCS / "archive.md").write_text("\n".join(arch))
 
-    print(f"index.md: {len(recent)} recent, archive.md: {len(older)} older")
+    print(f"{name}: index.md: {len(recent)} recent, archive.md: {len(older)} older")
 
 
 if __name__ == "__main__":

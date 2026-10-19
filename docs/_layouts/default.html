@@ -46,6 +46,15 @@ header.site a {
   font-weight: 600;
 }
 header.site a:hover { color: var(--accent); }
+/* Edition tabs. Scrolls sideways rather than wrapping if a fifth one is ever added. */
+nav.editions {
+  display: flex;
+  gap: 1.4rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+nav.editions a { padding: .35rem 0; border-bottom: 2px solid transparent; white-space: nowrap; }
+nav.editions a.on { color: var(--text); border-bottom-color: var(--accent); }
 h1 {
   font-size: 1.7rem;
   line-height: 1.2;
@@ -103,7 +112,15 @@ p > a[href^="http"]:only-child:hover { color: var(--accent); }
 </style>
 </head>
 <body>
-<header class="site"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></header>
+{%- assign seg = page.url | split: "/" -%}
+{%- assign here = seg[1] -%}
+{%- unless here == "world" or here == "sport" or here == "gaming" %}{% assign here = "tech" %}{% endunless -%}
+<header class="site"><nav class="editions">
+  <a href="{{ '/' | relative_url }}"{% if here == "tech" %} class="on"{% endif %}>Tech</a>
+  <a href="{{ '/world/' | relative_url }}"{% if here == "world" %} class="on"{% endif %}>World</a>
+  <a href="{{ '/sport/' | relative_url }}"{% if here == "sport" %} class="on"{% endif %}>Sport</a>
+  <a href="{{ '/gaming/' | relative_url }}"{% if here == "gaming" %} class="on"{% endif %}>Gaming</a>
+</nav></header>
 {{ content }}
 </body>
 </html>

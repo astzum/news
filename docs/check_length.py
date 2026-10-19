@@ -5,18 +5,16 @@ The word limits are the rules most prone to quiet drift -- bodies grew from the
 intended two or three sentences to ~180 words over ten days without anything
 noticing. This makes that visible.
 
-Usage: python3 docs/check_length.py [digest.md ...]   (default: newest)
+Limits are per edition and live in editions.py.
+
+Usage: python3 docs/check_length.py [digest.md ...]   (default: newest tech digest)
 """
 import pathlib
 import re
 import sys
 
-DOCS = pathlib.Path(__file__).parent
-DIGESTS = DOCS / "digests"
+from editions import EDITIONS, for_digest, root, strip_list_sections
 
-MAX_ITEM_WORDS = 65
-TARGET_TOTAL = 700
-MAX_TOTAL = 900
 WPM = 220  # unhurried phone reading
 
 
@@ -25,8 +23,11 @@ def words(text):
 
 
 def check(path):
-    raw = path.read_text()
-    body = re.split(r"\n## Trending on GitHub", raw)[0]
+    ed = EDITIONS[for_digest(path)]
+    MAX_ITEM_WORDS = ed["max_item_words"]
+    TARGET_TOTAL = ed["target_words"]
+    MAX_TOTAL = ed["max_words"]
+    body = strip_list_sections(path.read_text(), for_digest(path))
     # Drop frontmatter, headings, and bare source links; what's left is prose.
     prose = re.sub(r"^---\n.*?\n---\n", "", body, flags=re.S)
 
@@ -63,7 +64,7 @@ def check(path):
 def main():
     paths = [pathlib.Path(a) for a in sys.argv[1:]]
     if not paths:
-        paths = sorted(DIGESTS.glob("*.md"))[-1:]
+        paths = sorted((root("tech") / "digests").glob("*.md"))[-1:]
     problems = []
     for path in paths:
         problems += check(path)

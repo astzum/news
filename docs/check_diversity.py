@@ -6,7 +6,7 @@ its GitHub org are three domains and one source. This groups by organisation ins
 and flags the two failure modes worth catching -- one org dominating a single digest,
 and one org quietly recurring across the window.
 
-Usage: python3 docs/check_diversity.py [days]   (default 14)
+Usage: python3 docs/check_diversity.py [days] [edition]   (default 14 tech)
 """
 import collections
 import datetime
@@ -15,8 +15,7 @@ import re
 import sys
 import urllib.parse
 
-DOCS = pathlib.Path(__file__).parent
-DIGESTS = DOCS / "digests"
+from editions import EDITIONS, root, strip_list_sections
 
 # Domains that belong to the same publisher. Anything unlisted falls back to its
 # registrable-looking domain, which is right often enough.
@@ -48,6 +47,10 @@ def org(url):
 
 def main():
     days = int(sys.argv[1]) if len(sys.argv) > 1 else 14
+    name = sys.argv[2] if len(sys.argv) > 2 else "tech"
+    if name not in EDITIONS:
+        sys.exit(f"unknown edition {name!r}; one of {', '.join(EDITIONS)}")
+    DIGESTS = root(name) / "digests"
     cutoff = datetime.date.today() - datetime.timedelta(days=days)
 
     per_digest, window = {}, collections.Counter()
@@ -58,9 +61,9 @@ def main():
             continue
         if date < cutoff:
             continue
-        # The trending section is a GitHub listing, not sourced reporting. Counting
-        # its five github.com links would trip the per-org cap every single day.
-        body = re.split(r"\n## Trending on GitHub", path.read_text())[0]
+        # Scan lists (GitHub trending, results tables) are listings, not sourced
+        # reporting. Counting their links would trip the per-org cap every day.
+        body = strip_list_sections(path.read_text(), name)
         orgs = [org(u) for u in re.findall(r"\]\((https?://[^)\s]+)\)", body)]
         per_digest[path.stem] = collections.Counter(orgs)
         window.update(orgs)
