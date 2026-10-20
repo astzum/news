@@ -6,6 +6,7 @@ title: "Archive"
 
 ## October 2026
 
+- [Wed 07 Oct 2026](digests/2026-10-07.md) — Root KSK rolls on Oct 11, OpenSSH guts compression, Mistral Large 4 at 1T params
 - [Tue 06 Oct 2026](digests/2026-10-06.md) — A 501B open-weight model from Reflection, mold rewritten in Rust, 8.8M Danes exposed
 - [Mon 05 Oct 2026](digests/2026-10-05.md) — Google's OSS bug bounty stops taking reports, 125B on a 12GB card, a git-hook attack
 - [Sun 04 Oct 2026](digests/2026-10-04.md) — Stratego falls on 16 GPUs, Kolibri ships Apache-2.0, Google hands gVisor to the CNCF

@@ -996,6 +996,46 @@
     {
       "url": "https://www.trendforce.com/presscenter/news/20261019-13275.html",
       "date": "2026-10-20"
+    },
+    {
+      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://github.com/mixelpixx/Konnect",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://newsroom.amd.com/news/amd-intel-collaborate-simplify-ai-development-on-x86-cpus-pytorch/",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://phys.org/news/2026-10-aurora-supercomputer-powers-largest-cosmological.html",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://www.linuxfoundation.org/press/new-lf-research-survey-shows-generative-ai-cuts-open-source-coding-time-in-half-but-25-of-incoming-pull-requests-are-considered-ai-slop",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://www.openbsd.org/80.html",
+      "date": "2026-10-21"
     }
   ]
 }
