@@ -7,7 +7,7 @@ morning at 7am Sydney time:
 |---|---|---|
 | Tech: AI, dev, homelab, hardware, science | `docs/GENERATOR.md` | [`docs/index.md`](docs/index.md) |
 | World + Sydney | `docs/world/GENERATOR.md` | [`docs/world/index.md`](docs/world/index.md) |
-| Sport: EPL, F1, cycling, NBA, NFL | `docs/sport/GENERATOR.md` | [`docs/sport/index.md`](docs/sport/index.md) |
+| Sport: Chelsea first, then EPL, F1, cycling, NBA, NFL | `docs/sport/GENERATOR.md` | [`docs/sport/index.md`](docs/sport/index.md) |
 | Gaming | `docs/gaming/GENERATOR.md` | [`docs/gaming/index.md`](docs/gaming/index.md) |
 
 The editions run in parallel and each has its own `digests/`, `seen.json` and index.

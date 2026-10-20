@@ -16,11 +16,39 @@ on next."** Results are the point here, so don't hide them as spoilers.
 
 Interest, strongest first:
 
-1. **English Premier League.** Their main sport.
-2. **Formula 1.**
-3. **Tour de France / pro road cycling.**
-4. **NBA.**
-5. **NFL.** Only a little. Results line, plus an item only when something big happens.
+1. **Chelsea FC.** Their club, and the top priority in this edition. See below.
+2. **English Premier League.** Their main sport.
+3. **Formula 1.**
+4. **Tour de France / pro road cycling.**
+5. **NBA.**
+6. **NFL.** Only a little. Results line, plus an item only when something big happens.
+
+### Chelsea
+
+The reader supports Chelsea, so Chelsea clears a much lower bar than any other club.
+
+- **Every Chelsea match gets an item**, in any competition: Premier League, European
+  competition, FA Cup, League Cup. This holds even for a dull 0–0. Give the score,
+  the scorers with minutes, anything that decided it (a red card, a VAR call, a
+  howler), and what the result does to the table or the tie.
+- **Between matches, Chelsea news gets an item when it has substance.** That means
+  first-team injuries and return dates, confirmed signings and departures, manager
+  and board news, suspensions, and anything concrete from the pre-match press
+  conference (team news, not quotes about "the group"). The sourcing rules below
+  still apply, so no "linked with" gossip.
+- Chelsea gets its **own `## Chelsea` section, placed first** whenever there is
+  anything to put in it, ahead of the day's biggest other story. Up to two items
+  there, both within the six-item cap. Drop the section on days with nothing
+  real, but say so in one line in the lede when Chelsea are mid-week without a
+  game ("Chelsea: no news; Arsenal away Saturday").
+- **The lede** opens with Chelsea whenever they played in the window.
+- **Results:** put Chelsea's result first in the Premier League line, in bold.
+- **Table:** always show Chelsea's position and points, even when they are outside
+  the top four (e.g. `... · Liverpool 17 · … 9th Chelsea 11`).
+- **Coming up:** always include Chelsea's next fixture, even when it is more than
+  48 hours away, with the Sydney kickoff time and the competition.
+- Sources: chelseafc.com for team news and confirmed facts, plus the Guardian,
+  BBC Sport and The Athletic's Chelsea coverage (Simon Johnson, Liam Twomey).
 
 Australians in these competitions (e.g. Oscar Piastri in F1, Australian riders at
 the Tour, Australians in the NBA) are a reasonable tiebreaker between two items of
@@ -65,8 +93,9 @@ calendars instead of assuming.
 
 ## Sections
 
-Order by the day's weight. A Premier League matchweek leads on a Monday, and the
-race leads the morning after a Grand Prix. Drop any empty section.
+`## Chelsea` always comes first when it has content. Order the rest by the day's
+weight: a Premier League matchweek leads on a Monday, and the race leads the
+morning after a Grand Prix. Drop any empty section.
 
 ```markdown
 ---
@@ -78,6 +107,11 @@ summary: "<one line, under 90 chars, the overnight headline(s)>"
 
 **Overnight:** <one to three sentences, no links. The thing they'd want to know
 before opening a group chat.>
+
+## Chelsea
+### <Headline written as a claim: "Palmer's late penalty keeps Chelsea in the top four">
+<Body, 55 words max.>
+[source](url)
 
 ## Premier League
 ### <Headline written as a claim: "Arsenal go four clear after ...">
@@ -92,8 +126,8 @@ before opening a group chat.>
 ## Results
 
 <!-- Every score below is illustrative format only. Never copy it. -->
-- **Premier League:** Tottenham 3–1 Coventry · Arsenal 2–0 Everton · ...
-- **Table:** Arsenal 22 · Man City 19 · Liverpool 18 · Chelsea 17 (after 8)
+- **Premier League:** **Chelsea 2–0 Everton** · Tottenham 3–1 Coventry · Arsenal 2–0 Fulham · ...
+- **Table:** Arsenal 22 · Man City 19 · Liverpool 18 · Brighton 17 · … 6th Chelsea 15 (after 8)
 - **F1, US GP:** 1 Norris · 2 Piastri · 3 Verstappen. Championship: Norris +14
 - **NBA:** Celtics 112–104 Knicks · Lakers 118–109 Suns · ... (all games, one bullet)
 - **NFL:** Chiefs 27–20 Bills · ... (all games, one bullet)
@@ -101,6 +135,7 @@ before opening a group chat.>
 ## Coming up
 
 - **Sat 25 Oct, 22:30** — Premier League: Liverpool v Arsenal
+- **Sun 26 Oct, 01:00** — Premier League: Chelsea v Burnley (Chelsea's next)
 - **Mon 27 Oct, 07:00** — F1: Mexico City GP race
 ```
 
