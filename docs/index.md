@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Thu 22 Oct 2026](digests/2026-10-22.md) — Critical PHP RCEs patched; eMudhra's CA keys turn out to be single bytes
 - [Wed 21 Oct 2026](digests/2026-10-21.md) — eMudhra CA keys compromised; a quarter of open-source PRs are now AI slop
 - [Tue 20 Oct 2026](digests/2026-10-20.md) — Linux 7.3 breaks every record; optical fibre spot prices up to 5x 2025
 - [Mon 19 Oct 2026](digests/2026-10-19.md) — FLUX 3 Klein fits in 8GB; Pi-hole 6.5 patches five high-severity holes
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Sun 11 Oct 2026](digests/2026-10-11.md) — Typesafe AI raises $870M, probes catch model deception, SQLite 3.54
 - [Sat 10 Oct 2026](digests/2026-10-10.md) — Cloudflare buys Deno and sunsets the runtime, Python 3.15, two thorium nuclear clocks
 - [Fri 09 Oct 2026](digests/2026-10-09.md) — OpenAI withdraws three AI maths papers, ext4 drops data=journal, Webb's farthest FRB
-- [Thu 08 Oct 2026](digests/2026-10-08.md) — curl ships early for a HIGH CVE, Chrome gets JPEG XL in Rust, DGX Spark nearly doubles
 
-[Archive →](archive.md) · 20 older
+[Archive →](archive.md) · 21 older

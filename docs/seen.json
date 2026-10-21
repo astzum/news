@@ -2,54 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://arxiv.org/abs/2609.35465",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://developers.openai.com/api/docs/models/gpt-6.1-sol",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://github.com/davila7/claude-code-templates",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://github.com/paperclipai/paperclip",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://github.com/pbakaus/impeccable",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-      "date": "2026-09-30"
-    },
-    {
-      "url": "https://www.worldlabs.ai/blog/amd-announcement",
-      "date": "2026-09-30"
-    },
-    {
       "url": "https://blog.gitea.com/release-of-28.0.0/",
       "date": "2026-10-01"
     },
@@ -1036,6 +988,58 @@
     {
       "url": "https://www.openbsd.org/80.html",
       "date": "2026-10-21"
+    },
+    {
+      "url": "https://developers.googleblog.com/en/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://github.com/GLinnik21/plx-native",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://github.com/ModernRelay/omnigraph",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://github.com/stablyai/orca",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://global.jaxa.jp/press/2026/10/20261021-1_e.html",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "date": "2026-10-22"
     }
   ]
 }
