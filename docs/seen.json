@@ -2,54 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://blog.gitea.com/release-of-28.0.0/",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://codeberg.org/DAWO/DAWO-Core",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://edgcpp.org/#transition",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://github.com/FxEmbed/FxEmbed",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://github.com/dream-num/univer",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://github.com/firelex/jeff",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-      "date": "2026-10-01"
-    },
-    {
       "url": "https://arxiv.org/abs/2609.37725",
       "date": "2026-10-02"
     },
@@ -1040,6 +992,58 @@
     {
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
       "date": "2026-10-22"
+    },
+    {
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://github.com/PatchMon/PatchMon",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://github.com/voidzero-dev/vite-plus",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://www.modular.com/blog/max-license",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://www.servethehome.com/qotom-q51551ut-4x-10gbe-and-6x-2-5gbe-intel-mini-pc-review/",
+      "date": "2026-10-23"
     }
   ]
 }
