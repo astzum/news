@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Sat 24 Oct 2026](digests/2026-10-24.md) — Arkane Lyon has until 13 November; the Switch 2 gets a software-only jailbreak
 - [Fri 23 Oct 2026](digests/2026-10-23.md) — An Australian court forces Apple to open iOS; a Capcom ID breach hits 11.7m accounts
 - [Thu 22 Oct 2026](digests/2026-10-22.md) — EA closes BioWare and cancels Mass Effect; Xbox starts selling cloud gaming by the hour
 - [Wed 21 Oct 2026](digests/2026-10-21.md) — Xbox's next console is projected at $1,200-$1,800; Final Fantasy Resonance lands at 85
