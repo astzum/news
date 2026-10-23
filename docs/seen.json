@@ -2,50 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://arxiv.org/abs/2609.37725",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://blog.gitbutler.com/git-3-sha-256",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://github.com/ESPARGOS/esp-sdr",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://github.com/agent-substrate/substrate",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://github.com/androoAGI/starnet",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://github.com/tile-ai/tilelang",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://lists.debian.org/debian-security-announce/2026/msg00440.html",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.reddit.com/r/modnews/comments/1wubgvt/continuing_our_infrastructure_updates_whats/",
-      "date": "2026-10-02"
-    },
-    {
       "url": "https://allenai.org/blog/olmocore3",
       "date": "2026-10-03"
     },
@@ -1044,6 +1000,46 @@
     {
       "url": "https://www.servethehome.com/qotom-q51551ut-4x-10gbe-and-6x-2-5gbe-intel-mini-pc-review/",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24642",
+      "date": "2026-10-24"
+    },
+    {
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "date": "2026-10-24"
+    },
+    {
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "date": "2026-10-24"
+    },
+    {
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "date": "2026-10-24"
+    },
+    {
+      "url": "https://github.com/Python-roborock/local_roborock_server",
+      "date": "2026-10-24"
+    },
+    {
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "date": "2026-10-24"
+    },
+    {
+      "url": "https://github.com/pollen-robotics/microduck",
+      "date": "2026-10-24"
+    },
+    {
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "date": "2026-10-24"
+    },
+    {
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "date": "2026-10-24"
+    },
+    {
+      "url": "https://www.servethehome.com/msi-xpertstation-ws300-review-nvidia-dgx-station-gb300/",
+      "date": "2026-10-24"
     }
   ]
 }

@@ -6,6 +6,7 @@ title: "Archive"
 
 ## October 2026
 
+- [Sat 10 Oct 2026](digests/2026-10-10.md) — Cloudflare buys Deno and sunsets the runtime, Python 3.15, two thorium nuclear clocks
 - [Fri 09 Oct 2026](digests/2026-10-09.md) — OpenAI withdraws three AI maths papers, ext4 drops data=journal, Webb's farthest FRB
 - [Thu 08 Oct 2026](digests/2026-10-08.md) — curl ships early for a HIGH CVE, Chrome gets JPEG XL in Rust, DGX Spark nearly doubles
 - [Wed 07 Oct 2026](digests/2026-10-07.md) — Root KSK rolls on Oct 11, OpenSSH guts compression, Mistral Large 4 at 1T params
