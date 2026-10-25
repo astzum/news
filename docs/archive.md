@@ -6,6 +6,7 @@ title: "Archive"
 
 ## October 2026
 
+- [Mon 12 Oct 2026](digests/2026-10-12.md) — Yandex loses a data centre to a drone strike, one operator hit banks with four models
 - [Sun 11 Oct 2026](digests/2026-10-11.md) — Typesafe AI raises $870M, probes catch model deception, SQLite 3.54
 - [Sat 10 Oct 2026](digests/2026-10-10.md) — Cloudflare buys Deno and sunsets the runtime, Python 3.15, two thorium nuclear clocks
 - [Fri 09 Oct 2026](digests/2026-10-09.md) — OpenAI withdraws three AI maths papers, ext4 drops data=journal, Webb's farthest FRB

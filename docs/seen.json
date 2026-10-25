@@ -2,54 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://dwarfstar.sh/",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://earendil.com/posts/pi-1-0/",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://github.com/Effect-TS/effect",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://github.com/longbridge/gpui-kit",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://www.deepseek.com/en/harness/",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://www.nature.com/articles/s41586-026-11036-y",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://ziglang.org/download/0.17.0/release-notes.html",
-      "date": "2026-10-04"
-    },
-    {
       "url": "https://arxiv.org/abs/2610.02163",
       "date": "2026-10-05"
     },
@@ -1052,6 +1004,58 @@
     {
       "url": "https://www.phoronix.com/news/Linux-7.4-memblock",
       "date": "2026-10-25"
+    },
+    {
+      "url": "https://aardappel.github.io/goose/",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://github.com/coollabsio/coolify",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://github.com/eugenioenko/ttt",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://github.com/harry0703/MangoDisk",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://github.com/jub0t/Concat",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://github.com/kenn-io/agentsview",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://www.3dcenter.org/artikel/speicherkrise-preisindex-oktober-2026",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://www.onclive.com/view/adjuvant-intismeran-autogene-plus-pembrolizumab-improves-rfs-and-dmfs-in-melanoma",
+      "date": "2026-10-26"
     }
   ]
 }
