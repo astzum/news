@@ -2,50 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://arxiv.org/abs/2610.02163",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.02206",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://bughunters.google.com/about/rules/open-source/google-open-source-software-vulnerability-reward-program-rules",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://developers.openai.com/api/docs/deprecations",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://frankwiles.com/posts/i-got-targeted/",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://github.com/Niko1221/Strata",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://github.com/cs341-illinois/coursebook",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "date": "2026-10-05"
-    },
-    {
-      "url": "https://github.com/mvschwarz/openrig",
-      "date": "2026-10-05"
-    },
-    {
       "url": "https://arxiv.org/abs/2610.03509",
       "date": "2026-10-06"
     },
@@ -1056,6 +1012,62 @@
     {
       "url": "https://www.onclive.com/view/adjuvant-intismeran-autogene-plus-pembrolizumab-improves-rfs-and-dmfs-in-melanoma",
       "date": "2026-10-26"
+    },
+    {
+      "url": "https://artificialanalysis.ai/models/gpt-6-1-terra",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://github.com/JetBrains/thinkrail",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://github.com/OpenListTeam/OpenList",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://github.com/jamro/tiny-engineer",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://github.com/optiscaler/OptiScaler",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://peps.python.org/pep-0836/",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://stalw.art/blog/stalwart-1-0/",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://www.energy.gov/articles/energy-department-designates-helium-critical-material-strengthen-american-manufacturing",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41550-026-03002-5",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://www.servethehome.com/asrock-creator-radeon-ai-pro-r9700-review-workstation-inference-amd-style/",
+      "date": "2026-10-27"
     }
   ]
 }

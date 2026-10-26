@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Tue 27 Oct 2026](digests/2026-10-27.md) — Anthropic files to IPO on $16.3B half-year revenue; CPython's JIT loses its last PEP
 - [Mon 26 Oct 2026](digests/2026-10-26.md) — C++26 fails its ISO ballot; German DDR4 up 19% in a single month
 - [Sun 25 Oct 2026](digests/2026-10-25.md) — Brotli's decoder writes past its buffer; systemd will accept Rust from 263
 - [Sat 24 Oct 2026](digests/2026-10-24.md) — GitLab patches a CVSS 10.0 RCE; Claude proves 123 libraries cannot crash
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Fri 16 Oct 2026](digests/2026-10-16.md) — Spyware delivered through ad inventory at scale; Meta open-weights an 816B model
 - [Thu 15 Oct 2026](digests/2026-10-15.md) — Gemini 4 Argon goes GA; two of 25 package managers verify what they download
 - [Wed 14 Oct 2026](digests/2026-10-14.md) — Anthropic ditched git for Scion; an 11-year soundness hole in Rust's borrow checker
-- [Tue 13 Oct 2026](digests/2026-10-13.md) — An open model self-replicated across $55 TV boxes; Meta ships Muse Wonder
 
-[Archive →](archive.md) · 25 older
+[Archive →](archive.md) · 26 older
