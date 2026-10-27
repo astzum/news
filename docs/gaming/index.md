@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Wed 28 Oct 2026](digests/2026-10-28.md) — Microsoft offers 60,000 staff a buyout; Rockstar's UK devs vote on union in GTA 6 week
 - [Tue 27 Oct 2026](digests/2026-10-27.md) — Sucker Punch cuts 24 after a hit year; Arkane buys one more month
 - [Mon 26 Oct 2026](digests/2026-10-26.md) — Capcom guts a fan frame-data site; indies took 38% of big-launch sales this year
 - [Sun 25 Oct 2026](digests/2026-10-25.md) — Xbox's new COO is out after three months; Creative Assembly disowns the Shogun 2 remaster
