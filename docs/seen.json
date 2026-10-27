@@ -2,50 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://arxiv.org/abs/2610.03509",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://github.com/Gaurav-Gosain/tuios",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://github.com/caddyserver/caddy",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://github.com/cloudflare/cloudflare-os",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://github.com/cursor/plugins",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "date": "2026-10-06"
-    },
-    {
-      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-      "date": "2026-10-06"
-    },
-    {
       "url": "https://arxiv.org/abs/2610.06668",
       "date": "2026-10-07"
     },
@@ -1068,6 +1024,54 @@
     {
       "url": "https://www.servethehome.com/asrock-creator-radeon-ai-pro-r9700-review-workstation-inference-amd-style/",
       "date": "2026-10-27"
+    },
+    {
+      "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://cfsg.axiommath.ai/",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://github.com/Nutlope/hallmark",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://github.com/heygen-com/hyperframes",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://github.com/raspberrypi/linux/pull/7711",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://www.liquid.ai/blog/lfm3",
+      "date": "2026-10-28"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41559-026-03209-9",
+      "date": "2026-10-28"
     }
   ]
 }

@@ -6,6 +6,7 @@ title: "Archive"
 
 ## October 2026
 
+- [Wed 14 Oct 2026](digests/2026-10-14.md) — Anthropic ditched git for Scion; an 11-year soundness hole in Rust's borrow checker
 - [Tue 13 Oct 2026](digests/2026-10-13.md) — An open model self-replicated across $55 TV boxes; Meta ships Muse Wonder
 - [Mon 12 Oct 2026](digests/2026-10-12.md) — Yandex loses a data centre to a drone strike, one operator hit banks with four models
 - [Sun 11 Oct 2026](digests/2026-10-11.md) — Typesafe AI raises $870M, probes catch model deception, SQLite 3.54
