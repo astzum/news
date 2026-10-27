@@ -6,6 +6,7 @@ title: "World + Sydney"
 
 The world, then home — one page a day. Newest first.
 
+- [Wed 28 Oct 2026](digests/2026-10-28.md) — Israel deadlocked on record turnout, Oleshky truce holds, $2.4tn off China's markets
 - [Tue 27 Oct 2026](digests/2026-10-27.md) — Lula wins Brazil, Serbia's students oust Vučić, Israel votes today
 - [Mon 26 Oct 2026](digests/2026-10-26.md) — Israel votes Tuesday, Musk admits Starlink curb, Sydney's new airport takes off
 - [Sun 25 Oct 2026](digests/2026-10-25.md) — Brazil and Serbia vote, Houthis hit Saudi oil sites, NSW scraps a rail timetable
