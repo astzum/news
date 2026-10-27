@@ -6,6 +6,7 @@ title: "Sport"
 
 Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest first.
 
+- [Wed 28 Oct 2026](digests/2026-10-28.md) — Kane wins the Ballon d'Or; Joao Pedro out for weeks; Carrick survives, gets Chelsea
 - [Tue 27 Oct 2026](digests/2026-10-27.md) — Antonelli wins Austin and waits one more week; Jalen Williams stretchered off
 - [Mon 26 Oct 2026](digests/2026-10-26.md) — Bournemouth humiliate United and leave Carrick on the brink; Antonelli on pole in Austin
 - [Sun 25 Oct 2026](digests/2026-10-25.md) — Penders own goal and Palmer red sink Chelsea; Villa end City's perfect start
