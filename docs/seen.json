@@ -2,58 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://cactuscompute.com/blog/whistle",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://chipsandcheese.com/p/nvidias-olympus-core-pushing-server",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://github.com/EpicGames/raddebugger",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://github.com/ggml-org/llama.cpp/pull/29887",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://github.com/mattpocock/skills",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://github.com/morluto/rea",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://github.com/openai/math/blob/main/history.md",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://github.com/p-e-w/heretic",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://github.com/t8y2/dbx",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://lore.kernel.org/linux-ext4/ase1cbY1IuELJ7jQ@mit.edu/",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://lore.kernel.org/linux-mm/20261008182814.27450-1-kanchanapsridhar2026@gmail.com/",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
-      "date": "2026-10-09"
-    },
-    {
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
-      "date": "2026-10-09"
-    },
-    {
       "url": "https://arxiv.org/abs/2610.08144",
       "date": "2026-10-10"
     },
@@ -1044,6 +992,58 @@
     {
       "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://divagr.com/blog/qwenputer",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://github.com/lightpanda-io/browser",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://github.com/thedotmack/claude-mem",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://lwn.net/Articles/1104192/",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://science.nasa.gov/blogs/voyager/2026/10/29/nasas-voyager-1-conserves-power-resolves-brief-communications-pause/",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/0000050863/000005086326000191/intc-20260926.htm",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://www.synology.com/en-global/security/advisory/Synology_SA_24_20",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/cpus/benchmarking-nvidias-vera-cpu-for-the-data-center-standalone-vera-tested-against-granite-rapids-ap-and-epyc-turin",
+      "date": "2026-10-31"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors",
+      "date": "2026-10-31"
     }
   ]
 }

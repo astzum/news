@@ -6,6 +6,7 @@ title: "Archive"
 
 ## October 2026
 
+- [Fri 16 Oct 2026](digests/2026-10-16.md) — Spyware delivered through ad inventory at scale; Meta open-weights an 816B model
 - [Thu 15 Oct 2026](digests/2026-10-15.md) — Gemini 4 Argon goes GA; two of 25 package managers verify what they download
 - [Wed 14 Oct 2026](digests/2026-10-14.md) — Anthropic ditched git for Scion; an 11-year soundness hole in Rust's borrow checker
 - [Tue 13 Oct 2026](digests/2026-10-13.md) — An open model self-replicated across $55 TV boxes; Meta ships Muse Wonder

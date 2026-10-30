@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Sat 31 Oct 2026](digests/2026-10-31.md) — Claude built kernel exploits; Cursor served a backdoored Claude Code build
 - [Fri 30 Oct 2026](digests/2026-10-30.md) — Mistral opens a 1T model; Gemini 4 Carbon tops the index; Samsung's 100T won quarter
 - [Wed 28 Oct 2026](digests/2026-10-28.md) — A model claims the Exponential Time Hypothesis is false; agents formalise CFSG
 - [Tue 27 Oct 2026](digests/2026-10-27.md) — Anthropic files to IPO on $16.3B half-year revenue; CPython's JIT loses its last PEP
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Mon 19 Oct 2026](digests/2026-10-19.md) — FLUX 3 Klein fits in 8GB; Pi-hole 6.5 patches five high-severity holes
 - [Sun 18 Oct 2026](digests/2026-10-18.md) — LLM review reverted 8-10 Postgres 19 features; DeepSeek's Flash refresh goes MIT
 - [Sat 17 Oct 2026](digests/2026-10-17.md) — Kernel deletes its AI-attribution tag; leap seconds get an end date
-- [Fri 16 Oct 2026](digests/2026-10-16.md) — Spyware delivered through ad inventory at scale; Meta open-weights an 816B model
 
-[Archive →](archive.md) · 28 older
+[Archive →](archive.md) · 29 older
