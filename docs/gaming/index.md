@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Sat 31 Oct 2026](digests/2026-10-31.md) — EA picked Battlefront 3 over Mass Effect; Roblox bookings -12%; Rockstar union hits 1,600
 - [Fri 30 Oct 2026](digests/2026-10-30.md) — Xbox hardware revenue down 14%; The Duskbloods slips to 2027; Celeste delisted on Xbox
 - [Wed 28 Oct 2026](digests/2026-10-28.md) — Microsoft offers 60,000 staff a buyout; Rockstar's UK devs vote on union in GTA 6 week
 - [Tue 27 Oct 2026](digests/2026-10-27.md) — Sucker Punch cuts 24 after a hit year; Arkane buys one more month
