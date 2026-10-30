@@ -6,6 +6,7 @@ title: "Sport"
 
 Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest first.
 
+- [Sat 31 Oct 2026](digests/2026-10-31.md) — Nothing finished overnight; Lacroix out for weeks, Antonelli can clinch in Mexico
 - [Fri 30 Oct 2026](digests/2026-10-30.md) — Chelsea out on penalties at Anfield; League Two Fleetwood dump Arsenal out too
 - [Wed 28 Oct 2026](digests/2026-10-28.md) — Kane wins the Ballon d'Or; Joao Pedro out for weeks; Carrick survives, gets Chelsea
 - [Tue 27 Oct 2026](digests/2026-10-27.md) — Antonelli wins Austin and waits one more week; Jalen Williams stretchered off
