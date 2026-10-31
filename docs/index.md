@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Sun 01 Nov 2026](digests/2026-11-01.md) — Jepsen found 96 bugs in ParticleDB; Linux 7.4 deletes the C Binder driver
 - [Sat 31 Oct 2026](digests/2026-10-31.md) — Claude built kernel exploits; Cursor served a backdoored Claude Code build
 - [Fri 30 Oct 2026](digests/2026-10-30.md) — Mistral opens a 1T model; Gemini 4 Carbon tops the index; Samsung's 100T won quarter
 - [Wed 28 Oct 2026](digests/2026-10-28.md) — A model claims the Exponential Time Hypothesis is false; agents formalise CFSG
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Tue 20 Oct 2026](digests/2026-10-20.md) — Linux 7.3 breaks every record; optical fibre spot prices up to 5x 2025
 - [Mon 19 Oct 2026](digests/2026-10-19.md) — FLUX 3 Klein fits in 8GB; Pi-hole 6.5 patches five high-severity holes
 - [Sun 18 Oct 2026](digests/2026-10-18.md) — LLM review reverted 8-10 Postgres 19 features; DeepSeek's Flash refresh goes MIT
-- [Sat 17 Oct 2026](digests/2026-10-17.md) — Kernel deletes its AI-attribution tag; leap seconds get an end date
 
-[Archive →](archive.md) · 29 older
+[Archive →](archive.md) · 30 older

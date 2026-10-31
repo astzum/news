@@ -2,62 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://arxiv.org/abs/2610.08144",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://deno.com/blog/cloudflare",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://github.com/cjpais/Handy",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://github.com/eolix/photosuite",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://github.com/pocket-id/pocket-id",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://github.com/ys-ll/uniterm",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://www.nature.com/articles/s41586-026-11084-4",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://www.nature.com/articles/s41586-026-11122-1",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://www.python.org/downloads/release/python-3150/",
-      "date": "2026-10-10"
-    },
-    {
-      "url": "https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/",
-      "date": "2026-10-10"
-    },
-    {
       "url": "https://arxiv.org/abs/2610.12445",
       "date": "2026-10-11"
     },
@@ -1044,6 +988,54 @@
     {
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors",
       "date": "2026-10-31"
+    },
+    {
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://github.com/CapSoftware/Cap",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://github.com/anthropics/sandbox-runtime",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://github.com/obra/superpowers",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://github.com/torvalds/linux/commit/fd2bc059ed46",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://tailscale.com/security-bulletins",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/30/intel-intc-q3-2026-earnings-call-transcript/",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://www.fujifilm.com/jp/en/news/hq/14137",
+      "date": "2026-11-01"
     }
   ]
 }
