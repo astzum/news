@@ -6,6 +6,7 @@ title: "World + Sydney"
 
 The world, then home — one page a day. Newest first.
 
+- [Sun 01 Nov 2026](digests/2026-11-01.md) — Iran orders unrestricted retaliation, Ebola passes 5,000 dead, rifles on Sydney streets
 - [Sat 31 Oct 2026](digests/2026-10-31.md) — First joint evacuation of the Ukraine war, Hong Kong's fire report, an AI selloff
 - [Fri 30 Oct 2026](digests/2026-10-30.md) — Israel's Arab parties hold the balance, 69 dead in Spain, Sydney's metro opens
 - [Wed 28 Oct 2026](digests/2026-10-28.md) — Israel deadlocked on record turnout, Oleshky truce holds, $2.4tn off China's markets
