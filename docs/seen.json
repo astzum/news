@@ -2,62 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://arxiv.org/abs/2610.12445",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://github.com/AtomicBot-ai/atomic-agent",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://github.com/NdoleStudio/httpsms",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://github.com/lexmount/moli",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://github.com/microsoft/mxc",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://github.com/tester-army/e2e",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://sqlite.org/releaselog/3_54_0.html",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://typesafe.ai/blog/series-ai",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://www.ino.cnr.it/?p=27288",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://www.science.org/doi/10.1126/science.aeh1375",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://www.servethehome.com/gmktec-evo-x3-mini-pc-review/",
-      "date": "2026-10-11"
-    },
-    {
-      "url": "https://www.unison-lang.org/blog/unison-cloud-open-source/",
-      "date": "2026-10-11"
-    },
-    {
       "url": "https://arxiv.org/abs/2610.05978",
       "date": "2026-10-12"
     },
@@ -1036,6 +980,54 @@
     {
       "url": "https://www.fujifilm.com/jp/en/news/hq/14137",
       "date": "2026-11-01"
+    },
+    {
+      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://github.com/beenuar/AiSOC",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://github.com/cjpais/Handy",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://github.com/lfnovo/open-notebook",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://github.com/router-for-me/CLIProxyAPI",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://github.com/torvalds/linux/commit/ca62fc8c6b1841039aee6de1ef03c9863751ec04",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.servethehome.com/nvidia-updates-rubin-gpu-specs-as-first-production-hardware-arrives/",
+      "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.sttinfo.fi/tiedote/72453208/seoul-semiconductor-ends-need-for-rare-earths-in-white-leds?publisherId=58763726",
+      "date": "2026-11-02"
     }
   ]
 }

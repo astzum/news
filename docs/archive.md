@@ -6,6 +6,7 @@ title: "Archive"
 
 ## October 2026
 
+- [Sun 18 Oct 2026](digests/2026-10-18.md) — LLM review reverted 8-10 Postgres 19 features; DeepSeek's Flash refresh goes MIT
 - [Sat 17 Oct 2026](digests/2026-10-17.md) — Kernel deletes its AI-attribution tag; leap seconds get an end date
 - [Fri 16 Oct 2026](digests/2026-10-16.md) — Spyware delivered through ad inventory at scale; Meta open-weights an 816B model
 - [Thu 15 Oct 2026](digests/2026-10-15.md) — Gemini 4 Argon goes GA; two of 25 package managers verify what they download
