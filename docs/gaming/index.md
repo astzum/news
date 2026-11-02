@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Tue 03 Nov 2026](digests/2026-11-03.md) — Phantom Blade Zero sells 4m in 72h; Nagoshi Studio dissolved; ex-Xbox COO speaks
 - [Mon 02 Nov 2026](digests/2026-11-02.md) — CoD lags on Switch 2; itch.io page spam doubles; Chronicles: Medieval studio may close
 - [Sun 01 Nov 2026](digests/2026-11-01.md) — id confirms half its studio left; Elder Scrolls 6 'Sentinel'; Evercold slips to February
 - [Sat 31 Oct 2026](digests/2026-10-31.md) — EA picked Battlefront 3 over Mass Effect; Roblox bookings -12%; Rockstar union hits 1,600
