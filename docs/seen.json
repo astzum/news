@@ -2,58 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://arxiv.org/abs/2610.05978",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://esahubble.org/news/heic2613/",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://github.com/littledivy/mimic",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://github.com/osandov/drgn/releases/tag/v0.3.0",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://github.com/xingkongliang/skills-manager",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://github.com/zerx-lab/FluxDown",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://status.yandex.cloud/en/incidents/2136",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://www.nature.com/articles/s41550-026-02983-7",
-      "date": "2026-10-12"
-    },
-    {
-      "url": "https://www.trendforce.com/presscenter/news/20261008-13264.html",
-      "date": "2026-10-12"
-    },
-    {
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "date": "2026-10-13"
     },
@@ -1028,6 +976,54 @@
     {
       "url": "https://www.sttinfo.fi/tiedote/72453208/seoul-semiconductor-ends-need-for-rare-earths-in-white-leds?publisherId=58763726",
       "date": "2026-11-02"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.cmet.2026.09.020",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://github.com/JustVugg/colibri",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://github.com/NVIDIA/cuda-rust",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://github.com/max-sixty/worktrunk",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://github.com/p-e-w/heretic",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://lwn.net/Articles/1104653/",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://ubuntu.com/security/CVE-2026-98432",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.raspberrypi.com/news/price-rises-for-some-16gb-raspberry-pi-products/",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+      "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.servethehome.com/qualcomm-validates-hbc-stacked-memory-ahead-of-2027-dragonfly-ai250-sampling/",
+      "date": "2026-11-03"
     }
   ]
 }
