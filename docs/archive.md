@@ -6,6 +6,7 @@ title: "Archive"
 
 ## October 2026
 
+- [Tue 20 Oct 2026](digests/2026-10-20.md) — Linux 7.3 breaks every record; optical fibre spot prices up to 5x 2025
 - [Mon 19 Oct 2026](digests/2026-10-19.md) — FLUX 3 Klein fits in 8GB; Pi-hole 6.5 patches five high-severity holes
 - [Sun 18 Oct 2026](digests/2026-10-18.md) — LLM review reverted 8-10 Postgres 19 features; DeepSeek's Flash refresh goes MIT
 - [Sat 17 Oct 2026](digests/2026-10-17.md) — Kernel deletes its AI-attribution tag; leap seconds get an end date

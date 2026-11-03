@@ -2,54 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://github.com/colinhacks/zod/releases/tag/v4.6.6",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://github.com/h0m3us3r/w1700k-sdr",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://github.com/mksglu/context-mode",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://github.com/xerj-org/xerj",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://lwn.net/Articles/1099594/",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://research.meta.ai/blog/muse-wonder",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://words.filippo.io/right-answers/",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.anthropic.com/research/self-replicating-ai",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.financialcontent.com/article/bizwire-2026-10-12-intel-accelerates-open-infrastructure-for-the-agentic-ai-era",
-      "date": "2026-10-13"
-    },
-    {
-      "url": "https://www.servethehome.com/intels-crescent-island-ai-server-gpu-gets-a-name-and-specs-meet-the-intel-gpu-d-series/",
-      "date": "2026-10-13"
-    },
-    {
       "url": "https://arxiv.org/abs/2610.13928",
       "date": "2026-10-14"
     },
@@ -1024,6 +976,62 @@
     {
       "url": "https://www.servethehome.com/qualcomm-validates-hbc-stacked-memory-ahead-of-2027-dragonfly-ai250-sampling/",
       "date": "2026-11-03"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://github.com/aardappel/goose",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://github.com/floci-io/floci",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/45668",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://news.opensuse.org/2026/11/03/leap-unites-traditional-and-immutable/",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "date": "2026-11-04"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm",
+      "date": "2026-11-04"
     }
   ]
 }
