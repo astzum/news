@@ -6,6 +6,7 @@ title: "World + Sydney"
 
 The world, then home — one page a day. Newest first.
 
+- [Wed 04 Nov 2026](digests/2026-11-04.md) — Cash rate hits 4.85%, US strikes Iran again, Trump cuts Israel aid, Americans vote
 - [Tue 03 Nov 2026](digests/2026-11-03.md) — RBA decides today, Iran talks lift hopes, US votes, European shop fridges hacked
 - [Mon 02 Nov 2026](digests/2026-11-02.md) — Hormuz talks in the balance, UN's Western Sahara mission ends, house prices slide faster
 - [Sun 01 Nov 2026](digests/2026-11-01.md) — Iran orders unrestricted retaliation, Ebola passes 5,000 dead, rifles on Sydney streets
@@ -19,4 +20,5 @@ The world, then home — one page a day. Newest first.
 - [Fri 23 Oct 2026](digests/2026-10-23.md) — Oil at a five-month high, France bans weekend protests, Snowy 2.0 hits $22.2b
 - [Thu 22 Oct 2026](digests/2026-10-22.md) — Russia agrees to three-way Ukraine talks, Ebola reaches Nigeria, Meta fined $25bn
 - [Wed 21 Oct 2026](digests/2026-10-21.md) — Sudan drone strikes kill hundreds, Iran's Hormuz attacks lift oil, Alberta stays in Canada
-- [Tue 20 Oct 2026](digests/2026-10-20.md) — France imposes curfews after riots, Trump pauses Russia sanctions, MP critical after car attack
+
+[Archive →](archive.md) · 1 older
