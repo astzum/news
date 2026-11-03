@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Wed 04 Nov 2026](digests/2026-11-04.md) — Elder Scrolls 6 is Sentinel; GTA 6 pre-load dated; itch.io deletes AI slop
 - [Tue 03 Nov 2026](digests/2026-11-03.md) — Phantom Blade Zero sells 4m in 72h; Nagoshi Studio dissolved; ex-Xbox COO speaks
 - [Mon 02 Nov 2026](digests/2026-11-02.md) — CoD lags on Switch 2; itch.io page spam doubles; Chronicles: Medieval studio may close
 - [Sun 01 Nov 2026](digests/2026-11-01.md) — id confirms half its studio left; Elder Scrolls 6 'Sentinel'; Evercold slips to February
@@ -19,4 +20,5 @@ Releases, reviews and the industry — short on purpose. Newest first.
 - [Fri 23 Oct 2026](digests/2026-10-23.md) — An Australian court forces Apple to open iOS; a Capcom ID breach hits 11.7m accounts
 - [Thu 22 Oct 2026](digests/2026-10-22.md) — EA closes BioWare and cancels Mass Effect; Xbox starts selling cloud gaming by the hour
 - [Wed 21 Oct 2026](digests/2026-10-21.md) — Xbox's next console is projected at $1,200-$1,800; Final Fantasy Resonance lands at 85
-- [Tue 20 Oct 2026](digests/2026-10-20.md) — Activision testers authorise a strike; MW4 lands well; PEGI re-rates loot box games
+
+[Archive →](archive.md) · 1 older
