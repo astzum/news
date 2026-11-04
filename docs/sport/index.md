@@ -6,6 +6,7 @@ title: "Sport"
 
 Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest first.
 
+- [Thu 05 Nov 2026](digests/2026-11-05.md) — Panel says Palmer should have been red-carded; Liverpool beaten 3–2 at Fenerbahce
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Everton win at Newcastle again; Doncic ties a Lillard record on a 15-game NBA night
 - [Tue 03 Nov 2026](digests/2026-11-03.md) — Antonelli is F1's youngest champion at 20; Verstappen wins as Ferrari turn on each other
 - [Mon 02 Nov 2026](digests/2026-11-02.md) — Arsenal win at Anfield for the first time since 2012; Hamilton on pole in Mexico
@@ -19,6 +20,5 @@ Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest fi
 - [Sat 24 Oct 2026](digests/2026-10-24.md) — Martínez out weeks before Spurs; Saka faces six; Kompany in hospital
 - [Fri 23 Oct 2026](digests/2026-10-23.md) — Arsenal draw 2–2 at Bayern but lose Saka; 2027 Tour starts in Edinburgh
 - [Thu 22 Oct 2026](digests/2026-10-22.md) — Como put four past Man United, Liverpool win a seven-goal night, Foden hat-trick
-- [Wed 21 Oct 2026](digests/2026-10-21.md) — Martinez's broken jaw costs Chelsea their keeper; Liverpool 2-2 at the break
 
-[Archive →](archive.md) · 1 older
+[Archive →](archive.md) · 2 older
