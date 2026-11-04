@@ -2,58 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://arxiv.org/abs/2610.13928",
-      "date": "2026-10-14"
-    },
-    {
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "date": "2026-10-14"
-    },
-    {
-      "url": "https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/",
-      "date": "2026-10-14"
-    },
-    {
-      "url": "https://eg2.haku.sh/",
-      "date": "2026-10-14"
-    },
-    {
-      "url": "https://github.com/HakanSeven12/OpenCADStudio",
-      "date": "2026-10-14"
-    },
-    {
-      "url": "https://github.com/calesthio/OpenMontage",
-      "date": "2026-10-14"
-    },
-    {
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "date": "2026-10-14"
-    },
-    {
-      "url": "https://github.com/lyogavin/airllm",
-      "date": "2026-10-14"
-    },
-    {
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "date": "2026-10-14"
-    },
-    {
-      "url": "https://github.com/xtool-org/xtool",
-      "date": "2026-10-14"
-    },
-    {
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "date": "2026-10-14"
-    },
-    {
-      "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
-      "date": "2026-10-14"
-    },
-    {
-      "url": "https://www.servethehome.com/marvell-structera-x-3406-and-3506-cxl-3-2-memory-expanders/",
-      "date": "2026-10-14"
-    },
-    {
       "url": "https://ai.google.dev/gemini-api/docs/pricing",
       "date": "2026-10-15"
     },
@@ -1032,6 +980,66 @@
     {
       "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm",
       "date": "2026-11-04"
+    },
+    {
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://github.com/Mesh-LLM/mesh-llm",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://github.com/netbirdio/netbird",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://go.dev/blog/jsonv2",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://lists.debian.org/deity/2026/11/msg00005.html",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://security-tracker.debian.org/tracker/CVE-2026-109518",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.intc.com/news-events/press-releases/detail/1786/intel-reports-third-quarter-2026-financial-results",
+      "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "date": "2026-11-05"
     }
   ]
 }

@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Thu 05 Nov 2026](digests/2026-11-05.md) — APT could be tricked into installing an attacker's package as root
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Postman installed itself into your coding agent and approved its own hook
 - [Tue 03 Nov 2026](digests/2026-11-03.md) — A 9.8 TCP use-after-free is still unpatched on every Ubuntu release
 - [Mon 02 Nov 2026](digests/2026-11-02.md) — An AI review found unprivileged overlayfs bugs; Nvidia trimmed Rubin's specs
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Sat 24 Oct 2026](digests/2026-10-24.md) — GitLab patches a CVSS 10.0 RCE; Claude proves 123 libraries cannot crash
 - [Fri 23 Oct 2026](digests/2026-10-23.md) — An AI manuscript may have broken the n log n barrier; Railway leaks env vars
 - [Thu 22 Oct 2026](digests/2026-10-22.md) — Critical PHP RCEs patched; eMudhra's CA keys turn out to be single bytes
-- [Wed 21 Oct 2026](digests/2026-10-21.md) — eMudhra CA keys compromised; a quarter of open-source PRs are now AI slop
 
-[Archive →](archive.md) · 33 older
+[Archive →](archive.md) · 34 older
