@@ -2,50 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://ai.google.dev/gemini-api/docs/pricing",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://github.com/storytold/artcraft",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://github.com/trymirai/uzu",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://go.dev/blog/http-connection-reuse",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://lwn.net/Articles/1100449/",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://science.nasa.gov/blogs/roman/2026/10/14/nasa-roman-team-checks-out-main-instrument-sharpens-telescopes-focus/",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-      "date": "2026-10-15"
-    },
-    {
-      "url": "https://www.servethehome.com/amd-epyc-8005-sku-list-and-value-analysis-mainstream-soranos-big-stride/",
-      "date": "2026-10-15"
-    },
-    {
       "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
       "date": "2026-10-16"
     },
@@ -1040,6 +996,66 @@
     {
       "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://github.com/lz4/lz4/releases/tag/v1.11.0",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://github.com/madler/zlib/releases/tag/v1.4",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://sshhole.com",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-026-03566-2",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.openssh.com/releasenotes.html#10.6p2",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.qualcomm.com/news/releases/2026/11/spacex-selects-qualcomm-to-accelerate-starlink-mobile-s-nationwi",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.servethehome.com/qualcomm-dragonwing-nabs-a-big-spacex-starlink-mobile-nationwide-us-5g-network-win/",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "date": "2026-11-06"
     }
   ]
 }

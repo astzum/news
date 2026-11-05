@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Fri 06 Nov 2026](digests/2026-11-06.md) — OpenSSH on musl took any password over 256 bytes, for ten years
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — APT could be tricked into installing an attacker's package as root
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Postman installed itself into your coding agent and approved its own hook
 - [Tue 03 Nov 2026](digests/2026-11-03.md) — A 9.8 TCP use-after-free is still unpatched on every Ubuntu release
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Sun 25 Oct 2026](digests/2026-10-25.md) — Brotli's decoder writes past its buffer; systemd will accept Rust from 263
 - [Sat 24 Oct 2026](digests/2026-10-24.md) — GitLab patches a CVSS 10.0 RCE; Claude proves 123 libraries cannot crash
 - [Fri 23 Oct 2026](digests/2026-10-23.md) — An AI manuscript may have broken the n log n barrier; Railway leaks env vars
-- [Thu 22 Oct 2026](digests/2026-10-22.md) — Critical PHP RCEs patched; eMudhra's CA keys turn out to be single bytes
 
-[Archive →](archive.md) · 34 older
+[Archive →](archive.md) · 35 older
