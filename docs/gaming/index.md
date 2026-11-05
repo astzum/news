@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Fri 06 Nov 2026](digests/2026-11-06.md) — Switch 2 hardware down 37%, PlayStation profit up 83%, Steam's review queue at 12 days
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — Ocarina of Time tops 2026 at 95; God of War Laufey delayed; Arkane's union hits back
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Elder Scrolls 6 is Sentinel; GTA 6 pre-load dated; itch.io deletes AI slop
 - [Tue 03 Nov 2026](digests/2026-11-03.md) — Phantom Blade Zero sells 4m in 72h; Nagoshi Studio dissolved; ex-Xbox COO speaks
@@ -19,6 +20,5 @@ Releases, reviews and the industry — short on purpose. Newest first.
 - [Sun 25 Oct 2026](digests/2026-10-25.md) — Xbox's new COO is out after three months; Creative Assembly disowns the Shogun 2 remaster
 - [Sat 24 Oct 2026](digests/2026-10-24.md) — Arkane Lyon has until 13 November; the Switch 2 gets a software-only jailbreak
 - [Fri 23 Oct 2026](digests/2026-10-23.md) — An Australian court forces Apple to open iOS; a Capcom ID breach hits 11.7m accounts
-- [Thu 22 Oct 2026](digests/2026-10-22.md) — EA closes BioWare and cancels Mass Effect; Xbox starts selling cloud gaming by the hour
 
-[Archive →](archive.md) · 2 older
+[Archive →](archive.md) · 3 older
