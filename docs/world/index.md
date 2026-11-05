@@ -6,6 +6,7 @@ title: "World + Sydney"
 
 The world, then home — one page a day. Newest first.
 
+- [Fri 06 Nov 2026](digests/2026-11-06.md) — Eisenkot nears Israel's top job, NZ votes tomorrow, Catholic takeover cuts hospital care
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — Democrats take Congress, Trump digs in on Iran, David Jones on the brink
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Cash rate hits 4.85%, US strikes Iran again, Trump cuts Israel aid, Americans vote
 - [Tue 03 Nov 2026](digests/2026-11-03.md) — RBA decides today, Iran talks lift hopes, US votes, European shop fridges hacked
@@ -19,6 +20,5 @@ The world, then home — one page a day. Newest first.
 - [Sun 25 Oct 2026](digests/2026-10-25.md) — Brazil and Serbia vote, Houthis hit Saudi oil sites, NSW scraps a rail timetable
 - [Sat 24 Oct 2026](digests/2026-10-24.md) — Israel besieges Hebron, an eight-country bloc warns off Iran strikes, koala park passes
 - [Fri 23 Oct 2026](digests/2026-10-23.md) — Oil at a five-month high, France bans weekend protests, Snowy 2.0 hits $22.2b
-- [Thu 22 Oct 2026](digests/2026-10-22.md) — Russia agrees to three-way Ukraine talks, Ebola reaches Nigeria, Meta fined $25bn
 
-[Archive →](archive.md) · 2 older
+[Archive →](archive.md) · 3 older
