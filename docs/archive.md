@@ -6,6 +6,7 @@ title: "Archive"
 
 ## October 2026
 
+- [Fri 23 Oct 2026](digests/2026-10-23.md) — An AI manuscript may have broken the n log n barrier; Railway leaks env vars
 - [Thu 22 Oct 2026](digests/2026-10-22.md) — Critical PHP RCEs patched; eMudhra's CA keys turn out to be single bytes
 - [Wed 21 Oct 2026](digests/2026-10-21.md) — eMudhra CA keys compromised; a quarter of open-source PRs are now AI slop
 - [Tue 20 Oct 2026](digests/2026-10-20.md) — Linux 7.3 breaks every record; optical fibre spot prices up to 5x 2025

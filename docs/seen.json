@@ -2,54 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://documentation.ubuntu.com/release-notes/26.10/",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://github.com/KittenML/KittenTTS",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://github.com/farion1231/cc-switch",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://github.com/rommapp/romm",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://github.com/vosen/ZLUDA",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "date": "2026-10-16"
-    },
-    {
-      "url": "https://www.memtest.org/",
-      "date": "2026-10-16"
-    },
-    {
       "url": "https://calif.io/research/big-fish",
       "date": "2026-10-17"
     },
@@ -1056,6 +1008,62 @@
     {
       "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
       "date": "2026-11-06"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://github.com/anomalyco/hex",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://github.com/crmne/zapfast",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://github.com/multica-ai/multica",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=50385272",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.eumetsat.int/mtg-i2-first-images",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.home-assistant.io/blog/2026/11/04/release-202611/",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-026-11336-3",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.ricursive.com/ripple",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/gelsinger-backed-nagare-labs-capacitorless-z2ram-promises-sram-speed-with-dram-density-latest-published-cell-retains-data-for-over-300-seconds-at-85-c-but-further-figures-are-projected",
+      "date": "2026-11-07"
     }
   ]
 }
