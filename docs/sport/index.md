@@ -6,6 +6,7 @@ title: "Sport"
 
 Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest first.
 
+- [Sat 07 Nov 2026](digests/2026-11-07.md) — Palmer dropped by England, Ronaldo quits internationals, Warriors make it six straight
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Arsenal and City scrape through in Europe; Alan Jones dies at 80; Wembanyama 52 and 24
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — Panel says Palmer should have been red-carded; Liverpool beaten 3–2 at Fenerbahce
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Everton win at Newcastle again; Doncic ties a Lillard record on a 15-game NBA night
@@ -19,6 +20,5 @@ Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest fi
 - [Mon 26 Oct 2026](digests/2026-10-26.md) — Bournemouth humiliate United and leave Carrick on the brink; Antonelli on pole in Austin
 - [Sun 25 Oct 2026](digests/2026-10-25.md) — Penders own goal and Palmer red sink Chelsea; Villa end City's perfect start
 - [Sat 24 Oct 2026](digests/2026-10-24.md) — Martínez out weeks before Spurs; Saka faces six; Kompany in hospital
-- [Fri 23 Oct 2026](digests/2026-10-23.md) — Arsenal draw 2–2 at Bayern but lose Saka; 2027 Tour starts in Edinburgh
 
-[Archive →](archive.md) · 3 older
+[Archive →](archive.md) · 4 older
