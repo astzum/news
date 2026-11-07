@@ -2,46 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://calif.io/research/big-fish",
-      "date": "2026-10-17"
-    },
-    {
-      "url": "https://forgejo.org/2026-10-release-v17-0/",
-      "date": "2026-10-17"
-    },
-    {
-      "url": "https://github.com/Project-HAMi/HAMi",
-      "date": "2026-10-17"
-    },
-    {
-      "url": "https://github.com/koharu-rs/koharu",
-      "date": "2026-10-17"
-    },
-    {
-      "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
-      "date": "2026-10-17"
-    },
-    {
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "date": "2026-10-17"
-    },
-    {
-      "url": "https://mistral.ai/news/timestral",
-      "date": "2026-10-17"
-    },
-    {
-      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "date": "2026-10-17"
-    },
-    {
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "date": "2026-10-17"
-    },
-    {
-      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-      "date": "2026-10-17"
-    },
-    {
       "url": "https://arxiv.org/abs/2609.29852",
       "date": "2026-10-18"
     },
@@ -1064,6 +1024,58 @@
     {
       "url": "https://www.tomshardware.com/tech-industry/semiconductors/gelsinger-backed-nagare-labs-capacitorless-z2ram-promises-sram-speed-with-dram-density-latest-published-cell-retains-data-for-over-300-seconds-at-85-c-but-further-figures-are-projected",
       "date": "2026-11-07"
+    },
+    {
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://doi.org/10.1126/science.aea5324",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://github.com/ggml-org/llama.cpp/pull/30966",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://github.com/github/spec-kit",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://github.com/herdrdev/herdr",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://github.com/mattpocock/skills",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://github.com/mbillow/localthings",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://hunch.net/?p=13764006",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://www.bitdefender.com/en-us/blog/labs/ghostmap-android",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://www.bluetooth.com/blog/bluetooth-high-data-throughput-delivers-a-higher-level-of-wireless-performance/",
+      "date": "2026-11-08"
     }
   ]
 }

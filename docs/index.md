@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Sun 08 Nov 2026](digests/2026-11-08.md) — Libghostty 1.0 freezes its ABI; a content-free Android app bricks phones
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — Claude Code put your email in the User-Agent; a $32M 65B model tops open-weight coding
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — OpenSSH on musl took any password over 256 bytes, for ten years
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — APT could be tricked into installing an attacker's package as root
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Tue 27 Oct 2026](digests/2026-10-27.md) — Anthropic files to IPO on $16.3B half-year revenue; CPython's JIT loses its last PEP
 - [Mon 26 Oct 2026](digests/2026-10-26.md) — C++26 fails its ISO ballot; German DDR4 up 19% in a single month
 - [Sun 25 Oct 2026](digests/2026-10-25.md) — Brotli's decoder writes past its buffer; systemd will accept Rust from 263
-- [Sat 24 Oct 2026](digests/2026-10-24.md) — GitLab patches a CVSS 10.0 RCE; Claude proves 123 libraries cannot crash
 
-[Archive →](archive.md) · 36 older
+[Archive →](archive.md) · 37 older
