@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Sun 08 Nov 2026](digests/2026-11-08.md) — Path of Exile 2 dates 1.0 for 11 December; Sony pulls Pulse Elevate days before launch
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — Saudi PIF reportedly eyes Unity at $25bn, Ubisoft circles Arkane, ASA bans game ads
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Switch 2 hardware down 37%, PlayStation profit up 83%, Steam's review queue at 12 days
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — Ocarina of Time tops 2026 at 95; God of War Laufey delayed; Arkane's union hits back
@@ -19,6 +20,5 @@ Releases, reviews and the industry — short on purpose. Newest first.
 - [Tue 27 Oct 2026](digests/2026-10-27.md) — Sucker Punch cuts 24 after a hit year; Arkane buys one more month
 - [Mon 26 Oct 2026](digests/2026-10-26.md) — Capcom guts a fan frame-data site; indies took 38% of big-launch sales this year
 - [Sun 25 Oct 2026](digests/2026-10-25.md) — Xbox's new COO is out after three months; Creative Assembly disowns the Shogun 2 remaster
-- [Sat 24 Oct 2026](digests/2026-10-24.md) — Arkane Lyon has until 13 November; the Switch 2 gets a software-only jailbreak
 
-[Archive →](archive.md) · 4 older
+[Archive →](archive.md) · 5 older
