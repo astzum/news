@@ -2,58 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://arxiv.org/abs/2609.29852",
-      "date": "2026-10-18"
-    },
-    {
-      "url": "https://github.com/QuantumNous/new-api",
-      "date": "2026-10-18"
-    },
-    {
-      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "date": "2026-10-18"
-    },
-    {
-      "url": "https://github.com/gtsteffaniak/filebrowser",
-      "date": "2026-10-18"
-    },
-    {
-      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
-      "date": "2026-10-18"
-    },
-    {
-      "url": "https://github.com/microsoft/BitNet",
-      "date": "2026-10-18"
-    },
-    {
-      "url": "https://github.com/vxcontrol/pentagi",
-      "date": "2026-10-18"
-    },
-    {
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "date": "2026-10-18"
-    },
-    {
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "date": "2026-10-18"
-    },
-    {
-      "url": "https://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
-      "date": "2026-10-18"
-    },
-    {
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "date": "2026-10-18"
-    },
-    {
-      "url": "https://www.postgresql.org/message-id/f161fbb7-e193-42eb-bec7-4cfc1af74a50%40postgresql.org",
-      "date": "2026-10-18"
-    },
-    {
-      "url": "https://www.servethehome.com/microsoft-surface-laptop-ultra-review-rtx-spark-n1x/",
-      "date": "2026-10-18"
-    },
-    {
       "url": "https://api-docs.deepseek.com/guides/search/",
       "date": "2026-10-19"
     },
@@ -1076,6 +1024,62 @@
     {
       "url": "https://www.bluetooth.com/blog/bluetooth-high-data-throughput-delivers-a-higher-level-of-wireless-performance/",
       "date": "2026-11-08"
+    },
+    {
+      "url": "https://amutable.com/blog/systemd-loves-rust",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://cveawg.mitre.org/api/cve/CVE-2026-99999",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://diamondfoundry.com/insights/d200mm-single-crystal-diamond",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://doi.org/10.1126/science.adt3444",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://github.com/lemonade-sdk/lemonade",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://github.com/nightly-labs/openbot",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://github.com/openchoreo/openchoreo",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://github.com/sherlock-project/sherlock",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://github.com/synchopate/llama-modchip",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://huggingface.co/NousResearch/Arete-27B",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "date": "2026-11-09"
     }
   ]
 }

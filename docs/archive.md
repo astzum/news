@@ -6,6 +6,7 @@ title: "Archive"
 
 ## October 2026
 
+- [Sun 25 Oct 2026](digests/2026-10-25.md) — Brotli's decoder writes past its buffer; systemd will accept Rust from 263
 - [Sat 24 Oct 2026](digests/2026-10-24.md) — GitLab patches a CVSS 10.0 RCE; Claude proves 123 libraries cannot crash
 - [Fri 23 Oct 2026](digests/2026-10-23.md) — An AI manuscript may have broken the n log n barrier; Railway leaks env vars
 - [Thu 22 Oct 2026](digests/2026-10-22.md) — Critical PHP RCEs patched; eMudhra's CA keys turn out to be single bytes
