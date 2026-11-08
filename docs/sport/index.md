@@ -6,6 +6,7 @@ title: "Sport"
 
 Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest first.
 
+- [Mon 09 Nov 2026](digests/2026-11-09.md) — Chelsea done by one penalty at Sunderland; Norris wins, Mercedes take the constructors'
 - [Sun 08 Nov 2026](digests/2026-11-08.md) — Chelsea Women knocked off top, Delap sinks Man City, Hamilton and Verstappen to the back
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — Palmer dropped by England, Ronaldo quits internationals, Warriors make it six straight
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Arsenal and City scrape through in Europe; Alan Jones dies at 80; Wembanyama 52 and 24
@@ -19,6 +20,5 @@ Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest fi
 - [Wed 28 Oct 2026](digests/2026-10-28.md) — Kane wins the Ballon d'Or; Joao Pedro out for weeks; Carrick survives, gets Chelsea
 - [Tue 27 Oct 2026](digests/2026-10-27.md) — Antonelli wins Austin and waits one more week; Jalen Williams stretchered off
 - [Mon 26 Oct 2026](digests/2026-10-26.md) — Bournemouth humiliate United and leave Carrick on the brink; Antonelli on pole in Austin
-- [Sun 25 Oct 2026](digests/2026-10-25.md) — Penders own goal and Palmer red sink Chelsea; Villa end City's perfect start
 
-[Archive →](archive.md) · 5 older
+[Archive →](archive.md) · 6 older
