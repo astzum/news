@@ -6,6 +6,7 @@ title: "World + Sydney"
 
 The world, then home — one page a day. Newest first.
 
+- [Mon 09 Nov 2026](digests/2026-11-09.md) — COP31 opens with Australia presiding; Europe joins the Abu Dhabi talks
 - [Sun 08 Nov 2026](digests/2026-11-08.md) — Eisenkot gets first shot at replacing Netanyahu, NZ in limbo, six killed in Krakow
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — ANC loses its grip in South Africa, AI shares sell off, Miller to run the White House
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Eisenkot nears Israel's top job, NZ votes tomorrow, Catholic takeover cuts hospital care
@@ -19,6 +20,5 @@ The world, then home — one page a day. Newest first.
 - [Wed 28 Oct 2026](digests/2026-10-28.md) — Israel deadlocked on record turnout, Oleshky truce holds, $2.4tn off China's markets
 - [Tue 27 Oct 2026](digests/2026-10-27.md) — Lula wins Brazil, Serbia's students oust Vučić, Israel votes today
 - [Mon 26 Oct 2026](digests/2026-10-26.md) — Israel votes Tuesday, Musk admits Starlink curb, Sydney's new airport takes off
-- [Sun 25 Oct 2026](digests/2026-10-25.md) — Brazil and Serbia vote, Houthis hit Saudi oil sites, NSW scraps a rail timetable
 
-[Archive →](archive.md) · 5 older
+[Archive →](archive.md) · 6 older
