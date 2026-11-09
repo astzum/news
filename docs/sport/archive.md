@@ -6,6 +6,7 @@ title: "Archive"
 
 ## October 2026
 
+- [Mon 26 Oct 2026](digests/2026-10-26.md) — Bournemouth humiliate United and leave Carrick on the brink; Antonelli on pole in Austin
 - [Sun 25 Oct 2026](digests/2026-10-25.md) — Penders own goal and Palmer red sink Chelsea; Villa end City's perfect start
 - [Sat 24 Oct 2026](digests/2026-10-24.md) — Martínez out weeks before Spurs; Saka faces six; Kompany in hospital
 - [Fri 23 Oct 2026](digests/2026-10-23.md) — Arsenal draw 2–2 at Bayern but lose Saka; 2027 Tour starts in Edinburgh
