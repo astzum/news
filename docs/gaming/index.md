@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Tue 10 Nov 2026](digests/2026-11-10.md) — Sega leaks 2.19m email addresses; the PlayStation Portal drops 'Remote' and gains storage
 - [Mon 09 Nov 2026](digests/2026-11-09.md) — Ottawa faces a petition to buy BioWare back; Epic finally publishes Fortnite's odds
 - [Sun 08 Nov 2026](digests/2026-11-08.md) — Path of Exile 2 dates 1.0 for 11 December; Sony pulls Pulse Elevate days before launch
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — Saudi PIF reportedly eyes Unity at $25bn, Ubisoft circles Arkane, ASA bans game ads
@@ -19,6 +20,5 @@ Releases, reviews and the industry — short on purpose. Newest first.
 - [Fri 30 Oct 2026](digests/2026-10-30.md) — Xbox hardware revenue down 14%; The Duskbloods slips to 2027; Celeste delisted on Xbox
 - [Wed 28 Oct 2026](digests/2026-10-28.md) — Microsoft offers 60,000 staff a buyout; Rockstar's UK devs vote on union in GTA 6 week
 - [Tue 27 Oct 2026](digests/2026-10-27.md) — Sucker Punch cuts 24 after a hit year; Arkane buys one more month
-- [Mon 26 Oct 2026](digests/2026-10-26.md) — Capcom guts a fan frame-data site; indies took 38% of big-launch sales this year
 
-[Archive →](archive.md) · 6 older
+[Archive →](archive.md) · 7 older
