@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Tue 10 Nov 2026](digests/2026-11-10.md) — Fable 5.2 ships cheaper; a number plate unlocks any of one automaker's cars
 - [Mon 09 Nov 2026](digests/2026-11-09.md) — A Firecracker guest escapes to host root; systemd takes Rust, but only at the leaves
 - [Sun 08 Nov 2026](digests/2026-11-08.md) — Libghostty 1.0 freezes its ABI; a content-free Android app bricks phones
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — Claude Code put your email in the User-Agent; a $32M 65B model tops open-weight coding
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Fri 30 Oct 2026](digests/2026-10-30.md) — Mistral opens a 1T model; Gemini 4 Carbon tops the index; Samsung's 100T won quarter
 - [Wed 28 Oct 2026](digests/2026-10-28.md) — A model claims the Exponential Time Hypothesis is false; agents formalise CFSG
 - [Tue 27 Oct 2026](digests/2026-10-27.md) — Anthropic files to IPO on $16.3B half-year revenue; CPython's JIT loses its last PEP
-- [Mon 26 Oct 2026](digests/2026-10-26.md) — C++26 fails its ISO ballot; German DDR4 up 19% in a single month
 
-[Archive →](archive.md) · 38 older
+[Archive →](archive.md) · 39 older

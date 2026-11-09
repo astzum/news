@@ -2,54 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://api-docs.deepseek.com/guides/search/",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://github.com/anomalyco/opencode",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://github.com/devaccuracy/ledgerforge",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.5",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://go.dev/blog/interactive-refactoring",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://phys.org/news/2026-10-healthy-corals-neighbors-days-contact.html",
-      "date": "2026-10-19"
-    },
-    {
-      "url": "https://www.igorslab.de/en/intel-fixes-years-old-opencl-bug-arc-a770-arc-pro-b70-mrh-benchmark-3-9x-faster/",
-      "date": "2026-10-19"
-    },
-    {
       "url": "https://arxiv.org/abs/2610.18861",
       "date": "2026-10-20"
     },
@@ -1080,6 +1032,62 @@
     {
       "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
       "date": "2026-11-09"
+    },
+    {
+      "url": "https://github.com/agentgateway/agentgateway",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://github.com/can1357/oh-my-pi",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://github.com/gastownhall/beads",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://github.com/longbridge/gpui-kit",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://jmmv.dev/2026/11/zkeys-intro.html",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://stspg.io/7yw63xl9ztrv",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://stspg.io/jztczfplj6yb",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "date": "2026-11-10"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-026-11233-9",
+      "date": "2026-11-10"
     }
   ]
 }
