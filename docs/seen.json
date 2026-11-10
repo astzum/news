@@ -2,58 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://arxiv.org/abs/2610.18861",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://github.com/ran-j/PS2Recomp",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://github.com/usestrix/strix",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://github.com/vercel-labs/skills",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://hwbusters.com/news/spacemit-v100-puts-46-risc-v-cores-in-a-server-socket-with-pcie-5-0-and-eight-ddr5-channels/",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://lwn.net/Articles/1101143/",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://www.minimax.io/blog/minimax-m31f",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://www.servethehome.com/gl-inet-comet-q-gl-rmq1-review-a-single-usb-type-c-cable-remote-kvm-device-with-tailscale/",
-      "date": "2026-10-20"
-    },
-    {
-      "url": "https://www.trendforce.com/presscenter/news/20261019-13275.html",
-      "date": "2026-10-20"
-    },
-    {
       "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
       "date": "2026-10-21"
     },
@@ -1088,6 +1036,58 @@
     {
       "url": "https://www.nature.com/articles/s41586-026-11233-9",
       "date": "2026-11-10"
+    },
+    {
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://github.com/addyosmani/agent-skills",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://github.com/bradautomates/claude-video",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://github.com/dashdogy/MFG-Unlocker",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://github.com/tokio-rs/topcoat",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://github.com/we-promise/sure",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://www.cncf.io/announcements/2026/11/10/cloud-native-computing-foundation-announces-kubevirt-graduation/",
+      "date": "2026-11-11"
+    },
+    {
+      "url": "https://www.servethehome.com/amd-epyc-9006-results-are-here-and-amd-delivers-a-knockout-part-deux/",
+      "date": "2026-11-11"
     }
   ]
 }
