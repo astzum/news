@@ -6,6 +6,7 @@ title: "Sport"
 
 Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest first.
 
+- [Wed 11 Nov 2026](digests/2026-11-11.md) — Chelsea Women waste 32 shots in Gothenburg; Carrick's fate goes to Monaco
 - [Tue 10 Nov 2026](digests/2026-11-10.md) — João Pedro's quad injury leaked via Fantasy; Piastri splits from Webber; Reaves 43
 - [Mon 09 Nov 2026](digests/2026-11-09.md) — Chelsea done by one penalty at Sunderland; Norris wins, Mercedes take the constructors'
 - [Sun 08 Nov 2026](digests/2026-11-08.md) — Chelsea Women knocked off top, Delap sinks Man City, Hamilton and Verstappen to the back
@@ -19,6 +20,5 @@ Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest fi
 - [Sat 31 Oct 2026](digests/2026-10-31.md) — Nothing finished overnight; Lacroix out for weeks, Antonelli can clinch in Mexico
 - [Fri 30 Oct 2026](digests/2026-10-30.md) — Chelsea out on penalties at Anfield; League Two Fleetwood dump Arsenal out too
 - [Wed 28 Oct 2026](digests/2026-10-28.md) — Kane wins the Ballon d'Or; Joao Pedro out for weeks; Carrick survives, gets Chelsea
-- [Tue 27 Oct 2026](digests/2026-10-27.md) — Antonelli wins Austin and waits one more week; Jalen Williams stretchered off
 
-[Archive →](archive.md) · 7 older
+[Archive →](archive.md) · 8 older
