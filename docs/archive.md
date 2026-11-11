@@ -6,6 +6,7 @@ title: "Archive"
 
 ## October 2026
 
+- [Wed 28 Oct 2026](digests/2026-10-28.md) — A model claims the Exponential Time Hypothesis is false; agents formalise CFSG
 - [Tue 27 Oct 2026](digests/2026-10-27.md) — Anthropic files to IPO on $16.3B half-year revenue; CPython's JIT loses its last PEP
 - [Mon 26 Oct 2026](digests/2026-10-26.md) — C++26 fails its ISO ballot; German DDR4 up 19% in a single month
 - [Sun 25 Oct 2026](digests/2026-10-25.md) — Brotli's decoder writes past its buffer; systemd will accept Rust from 263

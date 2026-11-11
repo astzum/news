@@ -2,46 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://github.com/mixelpixx/Konnect",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://newsroom.amd.com/news/amd-intel-collaborate-simplify-ai-development-on-x86-cpus-pytorch/",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://phys.org/news/2026-10-aurora-supercomputer-powers-largest-cosmological.html",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://www.linuxfoundation.org/press/new-lf-research-survey-shows-generative-ai-cuts-open-source-coding-time-in-half-but-25-of-incoming-pull-requests-are-considered-ai-slop",
-      "date": "2026-10-21"
-    },
-    {
-      "url": "https://www.openbsd.org/80.html",
-      "date": "2026-10-21"
-    },
-    {
       "url": "https://developers.googleblog.com/en/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
       "date": "2026-10-22"
     },
@@ -1088,6 +1048,58 @@
     {
       "url": "https://www.servethehome.com/amd-epyc-9006-results-are-here-and-amd-delivers-a-knockout-part-deux/",
       "date": "2026-11-11"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://github.com/meta/astryx",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://github.com/podman-container-tools/podman/releases/tag/v6.2.0",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://github.com/shadcn/improve",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-026-11241-9",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://zellij.dev/news/terminal-inbox-session-previews/",
+      "date": "2026-11-12"
     }
   ]
 }
