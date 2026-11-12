@@ -2,58 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://developers.googleblog.com/en/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://github.com/GLinnik21/plx-native",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://github.com/ModernRelay/omnigraph",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://github.com/stablyai/orca",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://global.jaxa.jp/press/2026/10/20261021-1_e.html",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
-      "date": "2026-10-22"
-    },
-    {
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "date": "2026-10-22"
-    },
-    {
       "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
       "date": "2026-10-23"
     },
@@ -1100,6 +1048,58 @@
     {
       "url": "https://zellij.dev/news/terminal-inbox-session-previews/",
       "date": "2026-11-12"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://github.com/ashhart/TensorFold",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://github.com/henrygd/beszel",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://github.com/openai/codex-security",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://github.com/opensandbox-group/OpenSandbox",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://github.com/pingdotgg/t3code",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://httpd.apache.org/security/vulnerabilities_24.html",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://ipo.anthropic.com/us/",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+      "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/",
+      "date": "2026-11-13"
     }
   ]
 }

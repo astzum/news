@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Fri 13 Nov 2026](digests/2026-11-13.md) — Huang out at NVIDIA, Anthropic files to list, and a critical Apache HTTP/2 RCE
 - [Thu 12 Nov 2026](digests/2026-11-12.md) — AWS emulates itself locally; the M87 black hole ring survives an independent redo
 - [Wed 11 Nov 2026](digests/2026-11-11.md) — AI agents proved Signal's real code secure; AMD's Venice ships at 256 cores
 - [Tue 10 Nov 2026](digests/2026-11-10.md) — Fable 5.2 ships cheaper; a number plate unlocks any of one automaker's cars
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Mon 02 Nov 2026](digests/2026-11-02.md) — An AI review found unprivileged overlayfs bugs; Nvidia trimmed Rubin's specs
 - [Sun 01 Nov 2026](digests/2026-11-01.md) — Jepsen found 96 bugs in ParticleDB; Linux 7.4 deletes the C Binder driver
 - [Sat 31 Oct 2026](digests/2026-10-31.md) — Claude built kernel exploits; Cursor served a backdoored Claude Code build
-- [Fri 30 Oct 2026](digests/2026-10-30.md) — Mistral opens a 1T model; Gemini 4 Carbon tops the index; Samsung's 100T won quarter
 
-[Archive →](archive.md) · 41 older
+[Archive →](archive.md) · 42 older

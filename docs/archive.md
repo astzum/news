@@ -6,6 +6,7 @@ title: "Archive"
 
 ## October 2026
 
+- [Fri 30 Oct 2026](digests/2026-10-30.md) — Mistral opens a 1T model; Gemini 4 Carbon tops the index; Samsung's 100T won quarter
 - [Wed 28 Oct 2026](digests/2026-10-28.md) — A model claims the Exponential Time Hypothesis is false; agents formalise CFSG
 - [Tue 27 Oct 2026](digests/2026-10-27.md) — Anthropic files to IPO on $16.3B half-year revenue; CPython's JIT loses its last PEP
 - [Mon 26 Oct 2026](digests/2026-10-26.md) — C++26 fails its ISO ballot; German DDR4 up 19% in a single month
