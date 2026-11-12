@@ -6,6 +6,7 @@ title: "Sport"
 
 Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest first.
 
+- [Fri 13 Nov 2026](digests/2026-11-13.md) — Carrick and Sage both sacked; Curry out a fortnight; Kane's record 126th cap
 - [Thu 12 Nov 2026](digests/2026-11-12.md) — Pochettino ready for United; Paul George's 36 settles the Tatum-Brown reunion
 - [Wed 11 Nov 2026](digests/2026-11-11.md) — Chelsea Women waste 32 shots in Gothenburg; Carrick's fate goes to Monaco
 - [Tue 10 Nov 2026](digests/2026-11-10.md) — João Pedro's quad injury leaked via Fantasy; Piastri splits from Webber; Reaves 43
@@ -19,6 +20,5 @@ Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest fi
 - [Mon 02 Nov 2026](digests/2026-11-02.md) — Arsenal win at Anfield for the first time since 2012; Hamilton on pole in Mexico
 - [Sun 01 Nov 2026](digests/2026-11-01.md) — Chelsea see off 10-man United; Brighton win at City for the first time ever
 - [Sat 31 Oct 2026](digests/2026-10-31.md) — Nothing finished overnight; Lacroix out for weeks, Antonelli can clinch in Mexico
-- [Fri 30 Oct 2026](digests/2026-10-30.md) — Chelsea out on penalties at Anfield; League Two Fleetwood dump Arsenal out too
 
-[Archive →](archive.md) · 9 older
+[Archive →](archive.md) · 10 older
