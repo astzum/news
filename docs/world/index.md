@@ -6,6 +6,7 @@ title: "World + Sydney"
 
 The world, then home — one page a day. Newest first.
 
+- [Sat 14 Nov 2026](digests/2026-11-14.md) — Iran strikes at a US radar in Bahrain, Europe gets a seat at Ukraine talks
 - [Fri 13 Nov 2026](digests/2026-11-13.md) — Nvidia's CEO quits, Putin rules out European troops, Democrats take 55 Senate seats
 - [Thu 12 Nov 2026](digests/2026-11-12.md) — Abu Dhabi talks yield a prisoner swap, Indonesia's VP quits, record fall in home lending
 - [Wed 11 Nov 2026](digests/2026-11-11.md) — Abu Dhabi talks resume, Spain shuts down over housing, Canberra moves on AI rules
@@ -19,6 +20,5 @@ The world, then home — one page a day. Newest first.
 - [Tue 03 Nov 2026](digests/2026-11-03.md) — RBA decides today, Iran talks lift hopes, US votes, European shop fridges hacked
 - [Mon 02 Nov 2026](digests/2026-11-02.md) — Hormuz talks in the balance, UN's Western Sahara mission ends, house prices slide faster
 - [Sun 01 Nov 2026](digests/2026-11-01.md) — Iran orders unrestricted retaliation, Ebola passes 5,000 dead, rifles on Sydney streets
-- [Sat 31 Oct 2026](digests/2026-10-31.md) — First joint evacuation of the Ukraine war, Hong Kong's fire report, an AI selloff
 
-[Archive →](archive.md) · 10 older
+[Archive →](archive.md) · 11 older
