@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Sat 14 Nov 2026](digests/2026-11-14.md) — Xbox turns 25 promising Wolfenstein 3; the id devs it cut built their own studio
 - [Fri 13 Nov 2026](digests/2026-11-13.md) — A third of devs laid off in two years; Nintendo pulls 217 repos off GitHub
 - [Thu 12 Nov 2026](digests/2026-11-12.md) — Sony cancels Fairgames, Fortis Games shuts down, and Ocarina of Time sells 5.2m
 - [Wed 11 Nov 2026](digests/2026-11-11.md) — The EU moves on loot boxes; Rockstar's UK staff start voting on a union tomorrow
@@ -19,6 +20,5 @@ Releases, reviews and the industry — short on purpose. Newest first.
 - [Tue 03 Nov 2026](digests/2026-11-03.md) — Phantom Blade Zero sells 4m in 72h; Nagoshi Studio dissolved; ex-Xbox COO speaks
 - [Mon 02 Nov 2026](digests/2026-11-02.md) — CoD lags on Switch 2; itch.io page spam doubles; Chronicles: Medieval studio may close
 - [Sun 01 Nov 2026](digests/2026-11-01.md) — id confirms half its studio left; Elder Scrolls 6 'Sentinel'; Evercold slips to February
-- [Sat 31 Oct 2026](digests/2026-10-31.md) — EA picked Battlefront 3 over Mass Effect; Roblox bookings -12%; Rockstar union hits 1,600
 
-[Archive →](archive.md) · 10 older
+[Archive →](archive.md) · 11 older
