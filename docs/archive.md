@@ -4,6 +4,10 @@ title: "Archive"
 
 # Archive
 
+## November 2026
+
+- [Sun 01 Nov 2026](digests/2026-11-01.md) — Jepsen found 96 bugs in ParticleDB; Linux 7.4 deletes the C Binder driver
+
 ## October 2026
 
 - [Sat 31 Oct 2026](digests/2026-10-31.md) — Claude built kernel exploits; Cursor served a backdoored Claude Code build
