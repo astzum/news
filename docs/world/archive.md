@@ -4,6 +4,10 @@ title: "Archive"
 
 # Archive
 
+## November 2026
+
+- [Sun 01 Nov 2026](digests/2026-11-01.md) — Iran orders unrestricted retaliation, Ebola passes 5,000 dead, rifles on Sydney streets
+
 ## October 2026
 
 - [Sat 31 Oct 2026](digests/2026-10-31.md) — First joint evacuation of the Ukraine war, Hong Kong's fire report, an AI selloff
