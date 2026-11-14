@@ -4,6 +4,10 @@ title: "Archive"
 
 # Archive
 
+## November 2026
+
+- [Sun 01 Nov 2026](digests/2026-11-01.md) — Chelsea see off 10-man United; Brighton win at City for the first time ever
+
 ## October 2026
 
 - [Sat 31 Oct 2026](digests/2026-10-31.md) — Nothing finished overnight; Lacroix out for weeks, Antonelli can clinch in Mexico
