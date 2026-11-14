@@ -4,6 +4,10 @@ title: "Archive"
 
 # Archive
 
+## November 2026
+
+- [Sun 01 Nov 2026](digests/2026-11-01.md) — id confirms half its studio left; Elder Scrolls 6 'Sentinel'; Evercold slips to February
+
 ## October 2026
 
 - [Sat 31 Oct 2026](digests/2026-10-31.md) — EA picked Battlefront 3 over Mass Effect; Roblox bookings -12%; Rockstar union hits 1,600

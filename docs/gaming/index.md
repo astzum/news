@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Sun 15 Nov 2026](digests/2026-11-15.md) — ARC Raiders passes 17m; some GTA 6 boxes have no code; Pioner shuts down
 - [Sat 14 Nov 2026](digests/2026-11-14.md) — Xbox turns 25 promising Wolfenstein 3; the id devs it cut built their own studio
 - [Fri 13 Nov 2026](digests/2026-11-13.md) — A third of devs laid off in two years; Nintendo pulls 217 repos off GitHub
 - [Thu 12 Nov 2026](digests/2026-11-12.md) — Sony cancels Fairgames, Fortis Games shuts down, and Ocarina of Time sells 5.2m
@@ -19,6 +20,5 @@ Releases, reviews and the industry — short on purpose. Newest first.
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Elder Scrolls 6 is Sentinel; GTA 6 pre-load dated; itch.io deletes AI slop
 - [Tue 03 Nov 2026](digests/2026-11-03.md) — Phantom Blade Zero sells 4m in 72h; Nagoshi Studio dissolved; ex-Xbox COO speaks
 - [Mon 02 Nov 2026](digests/2026-11-02.md) — CoD lags on Switch 2; itch.io page spam doubles; Chronicles: Medieval studio may close
-- [Sun 01 Nov 2026](digests/2026-11-01.md) — id confirms half its studio left; Elder Scrolls 6 'Sentinel'; Evercold slips to February
 
-[Archive →](archive.md) · 11 older
+[Archive →](archive.md) · 12 older
