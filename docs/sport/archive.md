@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Mon 02 Nov 2026](digests/2026-11-02.md) — Arsenal win at Anfield for the first time since 2012; Hamilton on pole in Mexico
 - [Sun 01 Nov 2026](digests/2026-11-01.md) — Chelsea see off 10-man United; Brighton win at City for the first time ever
 
 ## October 2026
