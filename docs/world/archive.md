@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Mon 02 Nov 2026](digests/2026-11-02.md) — Hormuz talks in the balance, UN's Western Sahara mission ends, house prices slide faster
 - [Sun 01 Nov 2026](digests/2026-11-01.md) — Iran orders unrestricted retaliation, Ebola passes 5,000 dead, rifles on Sydney streets
 
 ## October 2026
