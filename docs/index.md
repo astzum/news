@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Mon 16 Nov 2026](digests/2026-11-16.md) — Starship's first upper-stage catch, Vulcan's first total loss, and the FAA's router
 - [Sun 15 Nov 2026](digests/2026-11-15.md) — Project Zero kills patch soak time, Blackwell fingerprints in Chinese models
 - [Sat 14 Nov 2026](digests/2026-11-14.md) — Gödel's workbooks yield 663 theorems, a 145B model on a laptop, RAID inside XFS
 - [Fri 13 Nov 2026](digests/2026-11-13.md) — Huang out at NVIDIA, Anthropic files to list, and a critical Apache HTTP/2 RCE
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — APT could be tricked into installing an attacker's package as root
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Postman installed itself into your coding agent and approved its own hook
 - [Tue 03 Nov 2026](digests/2026-11-03.md) — A 9.8 TCP use-after-free is still unpatched on every Ubuntu release
-- [Mon 02 Nov 2026](digests/2026-11-02.md) — An AI review found unprivileged overlayfs bugs; Nvidia trimmed Rubin's specs
 
-[Archive →](archive.md) · 44 older
+[Archive →](archive.md) · 45 older

@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Mon 02 Nov 2026](digests/2026-11-02.md) — An AI review found unprivileged overlayfs bugs; Nvidia trimmed Rubin's specs
 - [Sun 01 Nov 2026](digests/2026-11-01.md) — Jepsen found 96 bugs in ParticleDB; Linux 7.4 deletes the C Binder driver
 
 ## October 2026

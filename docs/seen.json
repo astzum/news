@@ -2,58 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://arxiv.org/abs/2605.08147",
-      "date": "2026-10-25"
-    },
-    {
-      "url": "https://block.xyz/dessa",
-      "date": "2026-10-25"
-    },
-    {
-      "url": "https://dreamlabs.ai/research/dream-1/",
-      "date": "2026-10-25"
-    },
-    {
-      "url": "https://github.com/Automattic/harper",
-      "date": "2026-10-25"
-    },
-    {
-      "url": "https://github.com/WerWolv/ImHex",
-      "date": "2026-10-25"
-    },
-    {
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "date": "2026-10-25"
-    },
-    {
-      "url": "https://github.com/chaitin/SafeLine",
-      "date": "2026-10-25"
-    },
-    {
-      "url": "https://github.com/martin-olivier/airgorah",
-      "date": "2026-10-25"
-    },
-    {
-      "url": "https://github.com/mudler/LocalAI",
-      "date": "2026-10-25"
-    },
-    {
-      "url": "https://github.com/systemd/systemd/pull/44324",
-      "date": "2026-10-25"
-    },
-    {
-      "url": "https://huggingface.co/RecursiveSI/flint",
-      "date": "2026-10-25"
-    },
-    {
-      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-      "date": "2026-10-25"
-    },
-    {
-      "url": "https://www.phoronix.com/news/Linux-7.4-memblock",
-      "date": "2026-10-25"
-    },
-    {
       "url": "https://aardappel.github.io/goose/",
       "date": "2026-10-26"
     },
@@ -1100,6 +1048,58 @@
     {
       "url": "https://www.trendforce.com/presscenter/news/20261111-13303.html",
       "date": "2026-11-15"
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://github.com/ModernRelay/omnigraph",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://github.com/a2ui-project/a2ui",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://github.com/dream-num/univer",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://www.amd.com/en/products/embedded/epyc/9006-series.html",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "date": "2026-11-16"
+    },
+    {
+      "url": "https://www.tomshardware.com/networking/two-hpe-juniper-network-routers-grounded-all-the-us-flights-on-friday-faas-decades-old-copper-network-buckled-under-a-feature-hpe-says-worked-as-intended-creaking-air-traffic-communication-system-became-overloaded-by-very-high-rate-pinging",
+      "date": "2026-11-16"
     }
   ]
 }
