@@ -6,6 +6,7 @@ title: "World + Sydney"
 
 The world, then home — one page a day. Newest first.
 
+- [Tue 17 Nov 2026](digests/2026-11-17.md) — Five EU states pick Rwanda for deportations; record drone barrage hits Crimea bridge
 - [Mon 16 Nov 2026](digests/2026-11-16.md) — Iran strikes Bahrain again; Houthis press toward Aden; ICJ to rule on Rohingya
 - [Sun 15 Nov 2026](digests/2026-11-15.md) — A copper wire shut US airspace; Washington floats NATO for Ukraine's Donbas
 - [Sat 14 Nov 2026](digests/2026-11-14.md) — Iran strikes at a US radar in Bahrain, Europe gets a seat at Ukraine talks
@@ -19,6 +20,5 @@ The world, then home — one page a day. Newest first.
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Eisenkot nears Israel's top job, NZ votes tomorrow, Catholic takeover cuts hospital care
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — Democrats take Congress, Trump digs in on Iran, David Jones on the brink
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Cash rate hits 4.85%, US strikes Iran again, Trump cuts Israel aid, Americans vote
-- [Tue 03 Nov 2026](digests/2026-11-03.md) — RBA decides today, Iran talks lift hopes, US votes, European shop fridges hacked
 
-[Archive →](archive.md) · 13 older
+[Archive →](archive.md) · 14 older
