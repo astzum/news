@@ -6,6 +6,7 @@ title: "Sport"
 
 Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest first.
 
+- [Tue 17 Nov 2026](digests/2026-11-17.md) — Rogers plays 90 as England win 3–2 in Madrid; 49ers shoot out 46–40; Bucks 1–13
 - [Mon 16 Nov 2026](digests/2026-11-16.md) — Denmark maul Portugal 4–1 with Neto on; Rogers starts in Madrid; Maye hurt in Munich
 - [Sun 15 Nov 2026](digests/2026-11-15.md) — Baltimore's screamer sends Chelsea top of the WSL; Reijnders hat-trick; Spurs win 11th
 - [Sat 14 Nov 2026](digests/2026-11-14.md) — Rogers scores England's opener; Pochettino's United move official; Cunningham 52
@@ -19,6 +20,5 @@ Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest fi
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Arsenal and City scrape through in Europe; Alan Jones dies at 80; Wembanyama 52 and 24
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — Panel says Palmer should have been red-carded; Liverpool beaten 3–2 at Fenerbahce
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Everton win at Newcastle again; Doncic ties a Lillard record on a 15-game NBA night
-- [Tue 03 Nov 2026](digests/2026-11-03.md) — Antonelli is F1's youngest champion at 20; Verstappen wins as Ferrari turn on each other
 
-[Archive →](archive.md) · 13 older
+[Archive →](archive.md) · 14 older

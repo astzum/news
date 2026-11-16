@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.chelseafc.com/en/news/article/xabi-alonso-on-his-confidence-in-mike-penders-and-liverpool-decision",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.espn.com/nba/story/_/id/50274046/nikola-jokic-triple-double-fuels-nuggets-ot-win-vs-pelicans",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.formula1.com/en/latest/article/antonelli-seizes-pole-position-ahead-of-verstappen-in-qualifying-at-the-united-states-gp.4xdH4w09GhNDOJdknowRAk",
-      "date": "2026-10-26"
-    },
-    {
-      "url": "https://www.theguardian.com/football/2026/oct/25/liverpool-brighton-premier-league-match-report",
-      "date": "2026-10-26"
-    },
-    {
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o",
       "date": "2026-10-27"
     },
@@ -495,6 +475,22 @@
     {
       "url": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live",
       "date": "2026-11-16"
+    },
+    {
+      "url": "https://www.chelseafc.com/en/news/article/internationals-rogers-helps-england-win-epic-as-belgium-and-france-advance",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.espn.com/nba/recap?gameId=401909992",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.espn.com/nfl/recap?gameId=401873063",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/15/spain-england-nations-league-match-report",
+      "date": "2026-11-17"
     }
   ]
 }
