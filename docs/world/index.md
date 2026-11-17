@@ -6,6 +6,7 @@ title: "World + Sydney"
 
 The world, then home — one page a day. Newest first.
 
+- [Wed 18 Nov 2026](digests/2026-11-18.md) — Crimean Bridge section collapses; US loses measles-free status; RBA split six to three
 - [Tue 17 Nov 2026](digests/2026-11-17.md) — Five EU states pick Rwanda for deportations; record drone barrage hits Crimea bridge
 - [Mon 16 Nov 2026](digests/2026-11-16.md) — Iran strikes Bahrain again; Houthis press toward Aden; ICJ to rule on Rohingya
 - [Sun 15 Nov 2026](digests/2026-11-15.md) — A copper wire shut US airspace; Washington floats NATO for Ukraine's Donbas
@@ -19,6 +20,5 @@ The world, then home — one page a day. Newest first.
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — ANC loses its grip in South Africa, AI shares sell off, Miller to run the White House
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Eisenkot nears Israel's top job, NZ votes tomorrow, Catholic takeover cuts hospital care
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — Democrats take Congress, Trump digs in on Iran, David Jones on the brink
-- [Wed 04 Nov 2026](digests/2026-11-04.md) — Cash rate hits 4.85%, US strikes Iran again, Trump cuts Israel aid, Americans vote
 
-[Archive →](archive.md) · 14 older
+[Archive →](archive.md) · 15 older
