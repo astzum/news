@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Wed 18 Nov 2026](digests/2026-11-18.md) — Sony beats the £2bn PlayStation Store case; Firaxis loses a third of its staff
 - [Tue 17 Nov 2026](digests/2026-11-17.md) — GTA 6's 2022 hacker pleads guilty; Xbox says Helix is a console, not a PC
 - [Mon 16 Nov 2026](digests/2026-11-16.md) — Coffee Stain rescues Chronicles: Medieval; Riot rebuilds League; shooting near inXile
 - [Sun 15 Nov 2026](digests/2026-11-15.md) — ARC Raiders passes 17m; some GTA 6 boxes have no code; Pioner shuts down
@@ -19,6 +20,5 @@ Releases, reviews and the industry — short on purpose. Newest first.
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — Saudi PIF reportedly eyes Unity at $25bn, Ubisoft circles Arkane, ASA bans game ads
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Switch 2 hardware down 37%, PlayStation profit up 83%, Steam's review queue at 12 days
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — Ocarina of Time tops 2026 at 95; God of War Laufey delayed; Arkane's union hits back
-- [Wed 04 Nov 2026](digests/2026-11-04.md) — Elder Scrolls 6 is Sentinel; GTA 6 pre-load dated; itch.io deletes AI slop
 
-[Archive →](archive.md) · 14 older
+[Archive →](archive.md) · 15 older
