@@ -2,62 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://artificialanalysis.ai/models/gpt-6-1-terra",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://github.com/JetBrains/thinkrail",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://github.com/OpenListTeam/OpenList",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://github.com/jamro/tiny-engineer",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://github.com/optiscaler/OptiScaler",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://peps.python.org/pep-0836/",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://stalw.art/blog/stalwart-1-0/",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://www.energy.gov/articles/energy-department-designates-helium-critical-material-strengthen-american-manufacturing",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://www.nature.com/articles/s41550-026-03002-5",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "date": "2026-10-27"
-    },
-    {
-      "url": "https://www.servethehome.com/asrock-creator-radeon-ai-pro-r9700-review-workstation-inference-amd-style/",
-      "date": "2026-10-27"
-    },
-    {
       "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/",
       "date": "2026-10-28"
     },
@@ -1100,6 +1044,58 @@
     {
       "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
       "date": "2026-11-17"
+    },
+    {
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/models",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://github.com/google-research/paper-orchestra",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://github.com/martin-olivier/airgorah",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "date": "2026-11-18"
+    },
+    {
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "date": "2026-11-18"
     }
   ]
 }

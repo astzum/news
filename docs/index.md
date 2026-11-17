@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Wed 18 Nov 2026](digests/2026-11-18.md) — Optimizely served malware to 178 big brands; Voyager 1 hits one light-day
 - [Tue 17 Nov 2026](digests/2026-11-17.md) — Rust's parallel frontend lands on nightly, Hugging Face hands routing to OpenRouter
 - [Mon 16 Nov 2026](digests/2026-11-16.md) — Starship's first upper-stage catch, Vulcan's first total loss, and the FAA's router
 - [Sun 15 Nov 2026](digests/2026-11-15.md) — Project Zero kills patch soak time, Blackwell fingerprints in Chinese models
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — Claude Code put your email in the User-Agent; a $32M 65B model tops open-weight coding
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — OpenSSH on musl took any password over 256 bytes, for ten years
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — APT could be tricked into installing an attacker's package as root
-- [Wed 04 Nov 2026](digests/2026-11-04.md) — Postman installed itself into your coding agent and approved its own hook
 
-[Archive →](archive.md) · 46 older
+[Archive →](archive.md) · 47 older
