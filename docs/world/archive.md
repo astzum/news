@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Thu 05 Nov 2026](digests/2026-11-05.md) — Democrats take Congress, Trump digs in on Iran, David Jones on the brink
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Cash rate hits 4.85%, US strikes Iran again, Trump cuts Israel aid, Americans vote
 - [Tue 03 Nov 2026](digests/2026-11-03.md) — RBA decides today, Iran talks lift hopes, US votes, European shop fridges hacked
 - [Mon 02 Nov 2026](digests/2026-11-02.md) — Hormuz talks in the balance, UN's Western Sahara mission ends, house prices slide faster
