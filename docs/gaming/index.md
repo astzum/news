@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Thu 19 Nov 2026](digests/2026-11-19.md) — GTA 6 lands at 99 with no mixed reviews; console shipments fell 36.5% last quarter
 - [Wed 18 Nov 2026](digests/2026-11-18.md) — Sony beats the £2bn PlayStation Store case; Firaxis loses a third of its staff
 - [Tue 17 Nov 2026](digests/2026-11-17.md) — GTA 6's 2022 hacker pleads guilty; Xbox says Helix is a console, not a PC
 - [Mon 16 Nov 2026](digests/2026-11-16.md) — Coffee Stain rescues Chronicles: Medieval; Riot rebuilds League; shooting near inXile
@@ -19,6 +20,5 @@ Releases, reviews and the industry — short on purpose. Newest first.
 - [Sun 08 Nov 2026](digests/2026-11-08.md) — Path of Exile 2 dates 1.0 for 11 December; Sony pulls Pulse Elevate days before launch
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — Saudi PIF reportedly eyes Unity at $25bn, Ubisoft circles Arkane, ASA bans game ads
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Switch 2 hardware down 37%, PlayStation profit up 83%, Steam's review queue at 12 days
-- [Thu 05 Nov 2026](digests/2026-11-05.md) — Ocarina of Time tops 2026 at 95; God of War Laufey delayed; Arkane's union hits back
 
-[Archive →](archive.md) · 15 older
+[Archive →](archive.md) · 16 older
