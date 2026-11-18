@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Thu 05 Nov 2026](digests/2026-11-05.md) — APT could be tricked into installing an attacker's package as root
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Postman installed itself into your coding agent and approved its own hook
 - [Tue 03 Nov 2026](digests/2026-11-03.md) — A 9.8 TCP use-after-free is still unpatched on every Ubuntu release
 - [Mon 02 Nov 2026](digests/2026-11-02.md) — An AI review found unprivileged overlayfs bugs; Nvidia trimmed Rubin's specs
