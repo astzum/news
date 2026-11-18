@@ -6,6 +6,7 @@ title: "Sport"
 
 Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest first.
 
+- [Thu 19 Nov 2026](digests/2026-11-19.md) — Haaland's 96th-minute penalty dumps Denmark out; Grimes 47 as the Lakers win a ninth straight
 - [Wed 18 Nov 2026](digests/2026-11-18.md) — Estêvão scores in Brazil's 7–0; Klopp's Germany rout the Dutch 5–0; Scotland shipped four
 - [Tue 17 Nov 2026](digests/2026-11-17.md) — Rogers plays 90 as England win 3–2 in Madrid; 49ers shoot out 46–40; Bucks 1–13
 - [Mon 16 Nov 2026](digests/2026-11-16.md) — Denmark maul Portugal 4–1 with Neto on; Rogers starts in Madrid; Maye hurt in Munich
@@ -19,6 +20,5 @@ Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest fi
 - [Sun 08 Nov 2026](digests/2026-11-08.md) — Chelsea Women knocked off top, Delap sinks Man City, Hamilton and Verstappen to the back
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — Palmer dropped by England, Ronaldo quits internationals, Warriors make it six straight
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Arsenal and City scrape through in Europe; Alan Jones dies at 80; Wembanyama 52 and 24
-- [Thu 05 Nov 2026](digests/2026-11-05.md) — Panel says Palmer should have been red-carded; Liverpool beaten 3–2 at Fenerbahce
 
-[Archive →](archive.md) · 15 older
+[Archive →](archive.md) · 16 older
