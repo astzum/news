@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Fri 06 Nov 2026](digests/2026-11-06.md) — Arsenal and City scrape through in Europe; Alan Jones dies at 80; Wembanyama 52 and 24
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — Panel says Palmer should have been red-carded; Liverpool beaten 3–2 at Fenerbahce
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Everton win at Newcastle again; Doncic ties a Lillard record on a 15-game NBA night
 - [Tue 03 Nov 2026](digests/2026-11-03.md) — Antonelli is F1's youngest champion at 20; Verstappen wins as Ferrari turn on each other
