@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Fri 20 Nov 2026](digests/2026-11-20.md) — Ubisoft founds a genAI subsidiary as it cuts 166 jobs; the Senate takes aim at Roblox
 - [Thu 19 Nov 2026](digests/2026-11-19.md) — GTA 6 lands at 99 with no mixed reviews; console shipments fell 36.5% last quarter
 - [Wed 18 Nov 2026](digests/2026-11-18.md) — Sony beats the £2bn PlayStation Store case; Firaxis loses a third of its staff
 - [Tue 17 Nov 2026](digests/2026-11-17.md) — GTA 6's 2022 hacker pleads guilty; Xbox says Helix is a console, not a PC
@@ -19,6 +20,5 @@ Releases, reviews and the industry — short on purpose. Newest first.
 - [Mon 09 Nov 2026](digests/2026-11-09.md) — Ottawa faces a petition to buy BioWare back; Epic finally publishes Fortnite's odds
 - [Sun 08 Nov 2026](digests/2026-11-08.md) — Path of Exile 2 dates 1.0 for 11 December; Sony pulls Pulse Elevate days before launch
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — Saudi PIF reportedly eyes Unity at $25bn, Ubisoft circles Arkane, ASA bans game ads
-- [Fri 06 Nov 2026](digests/2026-11-06.md) — Switch 2 hardware down 37%, PlayStation profit up 83%, Steam's review queue at 12 days
 
-[Archive →](archive.md) · 16 older
+[Archive →](archive.md) · 17 older
