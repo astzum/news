@@ -6,6 +6,7 @@ title: "World + Sydney"
 
 The world, then home — one page a day. Newest first.
 
+- [Fri 20 Nov 2026](digests/2026-11-20.md) — ICJ finds Myanmar committed genocide; Shenzhen declaration skips Ukraine; SA towers down
 - [Thu 19 Nov 2026](digests/2026-11-19.md) — Iran strikes Kuwait and Bahrain; Democrats take the Senate; Israel moves into central Gaza
 - [Wed 18 Nov 2026](digests/2026-11-18.md) — Crimean Bridge section collapses; US loses measles-free status; RBA split six to three
 - [Tue 17 Nov 2026](digests/2026-11-17.md) — Five EU states pick Rwanda for deportations; record drone barrage hits Crimea bridge
@@ -19,6 +20,5 @@ The world, then home — one page a day. Newest first.
 - [Mon 09 Nov 2026](digests/2026-11-09.md) — COP31 opens with Australia presiding; Europe joins the Abu Dhabi talks
 - [Sun 08 Nov 2026](digests/2026-11-08.md) — Eisenkot gets first shot at replacing Netanyahu, NZ in limbo, six killed in Krakow
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — ANC loses its grip in South Africa, AI shares sell off, Miller to run the White House
-- [Fri 06 Nov 2026](digests/2026-11-06.md) — Eisenkot nears Israel's top job, NZ votes tomorrow, Catholic takeover cuts hospital care
 
-[Archive →](archive.md) · 16 older
+[Archive →](archive.md) · 17 older
