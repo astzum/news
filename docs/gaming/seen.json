@@ -1,42 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://bsky.app/profile/maddymakesgames.com/post/3myzioij5vk2f",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://weekly.khan.co.kr/article/202610281634001",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.capcom.co.jp/ir/english/finance/review.html",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.fromsoftware.jp/ww/",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/msft-20260930.htm",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.videogameschronicle.com/news/fromsoftwares-switch-2-exclusive-the-duskbloods-has-been-delayed-to-2027",
-      "date": "2026-10-30"
-    },
-    {
       "url": "https://www.bloomberg.com/news/newsletters/2026-10-30/why-electronic-arts-shut-down-bioware-and-cancelled-mass-effect",
       "date": "2026-10-31"
     },
@@ -703,6 +667,46 @@
     {
       "url": "https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/",
       "date": "2026-11-20"
+    },
+    {
+      "url": "https://commission.europa.eu/document/download/0575d59f-554f-4a9e-b54b-e6b717175809_en?filename=Proposal+for+a+Digital+Fairness+Act.pdf",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://kotaku.com/major-esports-tournament-replaced-caster-commentary-with-ai-voices-and-it-went-over-very-poorly-2000758538",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://steamcommunity.com/groups/steam_hardware/announcements/detail/687522235410285039",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://www.eurogamer.net/wow-forever-weekly-players-15-years",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://www.gamesindustry.biz/how-the-eus-digital-fairness-act-will-impact-game-design-and-why-it-hits-european-indies-particularly-hard",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/valve-are-pausing-steam-machine-2tb-orders-over-supply-constraints-though-the-512gb-model-is-free-of-its-waitlist",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://www.videogameschronicle.com/news/gta-6-earns-3-79-billion-in-one-day-as-the-biggest-entertainment-launch-in-history/",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://x.com/Schnobben/status/2122641483165557158",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://x.com/TheWindstalker/status/2122843024791314913",
+      "date": "2026-11-21"
     }
   ]
 }

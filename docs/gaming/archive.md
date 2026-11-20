@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Sat 07 Nov 2026](digests/2026-11-07.md) — Saudi PIF reportedly eyes Unity at $25bn, Ubisoft circles Arkane, ASA bans game ads
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Switch 2 hardware down 37%, PlayStation profit up 83%, Steam's review queue at 12 days
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — Ocarina of Time tops 2026 at 95; God of War Laufey delayed; Arkane's union hits back
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Elder Scrolls 6 is Sentinel; GTA 6 pre-load dated; itch.io deletes AI slop
