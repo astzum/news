@@ -2,58 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://cohere.com/blog/who-gets-to-build-the-frontier-for-ai",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://github.com/pbakaus/impeccable",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://github.com/ruvnet/RuView",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://smsofdeath.com/",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
-      "date": "2026-10-30"
-    },
-    {
       "url": "https://cursor.com/blog/claude-code-extension-security-notice",
       "date": "2026-10-31"
     },
@@ -1140,6 +1088,54 @@
     {
       "url": "https://www.servethehome.com/november-2026-top500-new-systems-analysis/",
       "date": "2026-11-20"
+    },
+    {
+      "url": "https://architectlabs.com/blog/frostbite",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.21885",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://github.com/Viren070/AIOStreams",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://github.com/deskflow/deskflow",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://github.com/jingyaogong/minimind",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://github.com/tobi/qmd",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://github.com/unslothai/unsloth/releases/tag/v0.1.920-beta",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-121481",
+      "date": "2026-11-21"
+    },
+    {
+      "url": "https://vim-classic.org/news/vim-8.3.1-released.html",
+      "date": "2026-11-21"
     }
   ]
 }

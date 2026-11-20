@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Sat 21 Nov 2026](digests/2026-11-21.md) — Navier-Stokes blows up in finite time; two GRH proofs claimed hours apart
 - [Fri 20 Nov 2026](digests/2026-11-20.md) — Pre-auth RCE in Ruby's upcase; PostgreSQL 19 repacks tables without locks
 - [Thu 19 Nov 2026](digests/2026-11-19.md) — Pre-auth RCE in OpenJDK's Base64 decoder; nginx patches ten flaws at once
 - [Wed 18 Nov 2026](digests/2026-11-18.md) — Optimizely served malware to 178 big brands; Voyager 1 hits one light-day
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Tue 10 Nov 2026](digests/2026-11-10.md) — Fable 5.2 ships cheaper; a number plate unlocks any of one automaker's cars
 - [Mon 09 Nov 2026](digests/2026-11-09.md) — A Firecracker guest escapes to host root; systemd takes Rust, but only at the leaves
 - [Sun 08 Nov 2026](digests/2026-11-08.md) — Libghostty 1.0 freezes its ABI; a content-free Android app bricks phones
-- [Sat 07 Nov 2026](digests/2026-11-07.md) — Claude Code put your email in the User-Agent; a $32M 65B model tops open-weight coding
 
-[Archive →](archive.md) · 49 older
+[Archive →](archive.md) · 50 older

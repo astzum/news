@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Sat 07 Nov 2026](digests/2026-11-07.md) — Claude Code put your email in the User-Agent; a $32M 65B model tops open-weight coding
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — OpenSSH on musl took any password over 256 bytes, for ten years
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — APT could be tricked into installing an attacker's package as root
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Postman installed itself into your coding agent and approved its own hook
