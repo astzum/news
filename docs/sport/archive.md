@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Sat 07 Nov 2026](digests/2026-11-07.md) — Palmer dropped by England, Ronaldo quits internationals, Warriors make it six straight
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Arsenal and City scrape through in Europe; Alan Jones dies at 80; Wembanyama 52 and 24
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — Panel says Palmer should have been red-carded; Liverpool beaten 3–2 at Fenerbahce
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Everton win at Newcastle again; Doncic ties a Lillard record on a 15-game NBA night
