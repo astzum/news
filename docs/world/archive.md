@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Sat 07 Nov 2026](digests/2026-11-07.md) — ANC loses its grip in South Africa, AI shares sell off, Miller to run the White House
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Eisenkot nears Israel's top job, NZ votes tomorrow, Catholic takeover cuts hospital care
 - [Thu 05 Nov 2026](digests/2026-11-05.md) — Democrats take Congress, Trump digs in on Iran, David Jones on the brink
 - [Wed 04 Nov 2026](digests/2026-11-04.md) — Cash rate hits 4.85%, US strikes Iran again, Trump cuts Israel aid, Americans vote
