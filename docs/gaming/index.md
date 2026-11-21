@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Sun 22 Nov 2026](digests/2026-11-22.md) — GTA 6 filled 61% of active US PS5s on day one; Ubisoft cuts 166 more jobs
 - [Sat 21 Nov 2026](digests/2026-11-21.md) — GTA 6 took $3.79bn on day one; Valve closes the Steam Machine 2TB waitlist
 - [Fri 20 Nov 2026](digests/2026-11-20.md) — Ubisoft founds a genAI subsidiary as it cuts 166 jobs; the Senate takes aim at Roblox
 - [Thu 19 Nov 2026](digests/2026-11-19.md) — GTA 6 lands at 99 with no mixed reviews; console shipments fell 36.5% last quarter
@@ -19,6 +20,5 @@ Releases, reviews and the industry — short on purpose. Newest first.
 - [Wed 11 Nov 2026](digests/2026-11-11.md) — The EU moves on loot boxes; Rockstar's UK staff start voting on a union tomorrow
 - [Tue 10 Nov 2026](digests/2026-11-10.md) — Sega leaks 2.19m email addresses; the PlayStation Portal drops 'Remote' and gains storage
 - [Mon 09 Nov 2026](digests/2026-11-09.md) — Ottawa faces a petition to buy BioWare back; Epic finally publishes Fortnite's odds
-- [Sun 08 Nov 2026](digests/2026-11-08.md) — Path of Exile 2 dates 1.0 for 11 December; Sony pulls Pulse Elevate days before launch
 
-[Archive →](archive.md) · 18 older
+[Archive →](archive.md) · 19 older
