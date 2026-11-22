@@ -6,6 +6,7 @@ title: "World + Sydney"
 
 The world, then home — one page a day. Newest first.
 
+- [Mon 23 Nov 2026](digests/2026-11-23.md) — COP31 ends with no deal; EU-Indonesia trade pact signed; 36 missing in Jakarta fire
 - [Sun 22 Nov 2026](digests/2026-11-22.md) — Tankers hit in Hormuz; COP31 deadlocked past deadline; UN autonomous weapons talks fail
 - [Sat 21 Nov 2026](digests/2026-11-21.md) — Russian missile lands in Poland; UK and EU sign post-Brexit deal; AI stocks slide
 - [Fri 20 Nov 2026](digests/2026-11-20.md) — ICJ finds Myanmar committed genocide; Shenzhen declaration skips Ukraine; SA towers down
@@ -19,6 +20,5 @@ The world, then home — one page a day. Newest first.
 - [Thu 12 Nov 2026](digests/2026-11-12.md) — Abu Dhabi talks yield a prisoner swap, Indonesia's VP quits, record fall in home lending
 - [Wed 11 Nov 2026](digests/2026-11-11.md) — Abu Dhabi talks resume, Spain shuts down over housing, Canberra moves on AI rules
 - [Tue 10 Nov 2026](digests/2026-11-10.md) — France names Iran's Revolutionary Guards over the fridge hacks; Nvidia probes its CEO
-- [Mon 09 Nov 2026](digests/2026-11-09.md) — COP31 opens with Australia presiding; Europe joins the Abu Dhabi talks
 
-[Archive →](archive.md) · 19 older
+[Archive →](archive.md) · 20 older
