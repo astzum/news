@@ -2,54 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "date": "2026-11-01"
-    },
-    {
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "date": "2026-11-01"
-    },
-    {
-      "url": "https://github.com/CapSoftware/Cap",
-      "date": "2026-11-01"
-    },
-    {
-      "url": "https://github.com/anthropics/sandbox-runtime",
-      "date": "2026-11-01"
-    },
-    {
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "date": "2026-11-01"
-    },
-    {
-      "url": "https://github.com/obra/superpowers",
-      "date": "2026-11-01"
-    },
-    {
-      "url": "https://github.com/torvalds/linux/commit/fd2bc059ed46",
-      "date": "2026-11-01"
-    },
-    {
-      "url": "https://jepsen.io/analyses/particledb-1.1.4",
-      "date": "2026-11-01"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-      "date": "2026-11-01"
-    },
-    {
-      "url": "https://tailscale.com/security-bulletins",
-      "date": "2026-11-01"
-    },
-    {
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/30/intel-intc-q3-2026-earnings-call-transcript/",
-      "date": "2026-11-01"
-    },
-    {
-      "url": "https://www.fujifilm.com/jp/en/news/hq/14137",
-      "date": "2026-11-01"
-    },
-    {
       "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
       "date": "2026-11-02"
     },
@@ -1136,6 +1088,62 @@
     {
       "url": "https://www.servethehome.com/jedec-previews-ddr6-memory-standard-2-35x-more-bandwidth-44-narrower-dimms/",
       "date": "2026-11-22"
+    },
+    {
+      "url": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://github.com/aquasecurity/trivy",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://github.com/cursor/plugins",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://github.com/microsoft/BitNet",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://github.com/runkids/skillshare",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://pwn.ai/upload2shell/research.html",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-026-03803-8",
+      "date": "2026-11-23"
+    },
+    {
+      "url": "https://www.servethehome.com/centec-zx530s-24s2cq-review/",
+      "date": "2026-11-23"
     }
   ]
 }
