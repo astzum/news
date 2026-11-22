@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Mon 09 Nov 2026](digests/2026-11-09.md) — Ottawa faces a petition to buy BioWare back; Epic finally publishes Fortnite's odds
 - [Sun 08 Nov 2026](digests/2026-11-08.md) — Path of Exile 2 dates 1.0 for 11 December; Sony pulls Pulse Elevate days before launch
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — Saudi PIF reportedly eyes Unity at $25bn, Ubisoft circles Arkane, ASA bans game ads
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Switch 2 hardware down 37%, PlayStation profit up 83%, Steam's review queue at 12 days
