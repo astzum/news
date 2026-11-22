@@ -6,6 +6,7 @@ title: "Sport"
 
 Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest first.
 
+- [Mon 23 Nov 2026](digests/2026-11-23.md) — Liverpool 4-0 United on Pochettino's debut, Hull shock Brighton, Verstappen wins Vegas
 - [Sun 22 Nov 2026](digests/2026-11-22.md) — Leeds hammer Chelsea 4-1, Arsenal draw at Newcastle, Verstappen inherits Vegas pole
 - [Sat 21 Nov 2026](digests/2026-11-21.md) — Alonso rules three out for Leeds, Brady eyes a Chelsea stake, FIA signs off V8s for 2030
 - [Fri 20 Nov 2026](digests/2026-11-20.md) — Buurman's 87th-minute winner sinks PSG; the 3–13 Jazz end the Lakers' nine-game run
@@ -19,6 +20,5 @@ Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest fi
 - [Thu 12 Nov 2026](digests/2026-11-12.md) — Pochettino ready for United; Paul George's 36 settles the Tatum-Brown reunion
 - [Wed 11 Nov 2026](digests/2026-11-11.md) — Chelsea Women waste 32 shots in Gothenburg; Carrick's fate goes to Monaco
 - [Tue 10 Nov 2026](digests/2026-11-10.md) — João Pedro's quad injury leaked via Fantasy; Piastri splits from Webber; Reaves 43
-- [Mon 09 Nov 2026](digests/2026-11-09.md) — Chelsea done by one penalty at Sunderland; Norris wins, Mercedes take the constructors'
 
-[Archive →](archive.md) · 19 older
+[Archive →](archive.md) · 20 older

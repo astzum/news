@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Mon 09 Nov 2026](digests/2026-11-09.md) — Chelsea done by one penalty at Sunderland; Norris wins, Mercedes take the constructors'
 - [Sun 08 Nov 2026](digests/2026-11-08.md) — Chelsea Women knocked off top, Delap sinks Man City, Hamilton and Verstappen to the back
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — Palmer dropped by England, Ronaldo quits internationals, Warriors make it six straight
 - [Fri 06 Nov 2026](digests/2026-11-06.md) — Arsenal and City scrape through in Europe; Alan Jones dies at 80; Wembanyama 52 and 24
