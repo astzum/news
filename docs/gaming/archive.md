@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Tue 10 Nov 2026](digests/2026-11-10.md) — Sega leaks 2.19m email addresses; the PlayStation Portal drops 'Remote' and gains storage
 - [Mon 09 Nov 2026](digests/2026-11-09.md) — Ottawa faces a petition to buy BioWare back; Epic finally publishes Fortnite's odds
 - [Sun 08 Nov 2026](digests/2026-11-08.md) — Path of Exile 2 dates 1.0 for 11 December; Sony pulls Pulse Elevate days before launch
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — Saudi PIF reportedly eyes Unity at $25bn, Ubisoft circles Arkane, ASA bans game ads

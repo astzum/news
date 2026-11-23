@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://bsky.app/profile/itch.io/post/3mz7vswlnbs23",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://news.xbox.com/en-us/2026/10/29/crimson-desert-charting-the-unknown/",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://store.steampowered.com/news/app/2231020/view/1847920302238569",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.playstation.com/en-au/games/crimson-desert/",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://x.com/TESRSkyblivion/status/2116315667078996211",
-      "date": "2026-11-02"
-    },
-    {
       "url": "https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch",
       "date": "2026-11-03"
     },
@@ -691,6 +667,38 @@
     {
       "url": "https://x.com/comcast/status/2123901400149094826",
       "date": "2026-11-23"
+    },
+    {
+      "url": "https://patentlyze.com/patent/activision-game-characters-trained-voice-chat/",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.eurogamer.net/activision-ai-voice-chat-npc-patent",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6",
+      "date": "2026-11-24"
     }
   ]
 }

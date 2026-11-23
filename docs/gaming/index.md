@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Tue 24 Nov 2026](digests/2026-11-24.md) — Epic cuts Blueprints from UE6 and bets AI will port your game; GTA 6's 2022 hacker walks
 - [Mon 23 Nov 2026](digests/2026-11-23.md) — Nicalis strips AI music from Binding of Isaac; GTA 6 ate a quarter of Comcast's network
 - [Sun 22 Nov 2026](digests/2026-11-22.md) — GTA 6 filled 61% of active US PS5s on day one; Ubisoft cuts 166 more jobs
 - [Sat 21 Nov 2026](digests/2026-11-21.md) — GTA 6 took $3.79bn on day one; Valve closes the Steam Machine 2TB waitlist
@@ -19,6 +20,5 @@ Releases, reviews and the industry — short on purpose. Newest first.
 - [Fri 13 Nov 2026](digests/2026-11-13.md) — A third of devs laid off in two years; Nintendo pulls 217 repos off GitHub
 - [Thu 12 Nov 2026](digests/2026-11-12.md) — Sony cancels Fairgames, Fortis Games shuts down, and Ocarina of Time sells 5.2m
 - [Wed 11 Nov 2026](digests/2026-11-11.md) — The EU moves on loot boxes; Rockstar's UK staff start voting on a union tomorrow
-- [Tue 10 Nov 2026](digests/2026-11-10.md) — Sega leaks 2.19m email addresses; the PlayStation Portal drops 'Remote' and gains storage
 
-[Archive →](archive.md) · 20 older
+[Archive →](archive.md) · 21 older
