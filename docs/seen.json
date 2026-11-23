@@ -2,54 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://github.com/beenuar/AiSOC",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://github.com/cjpais/Handy",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://github.com/lfnovo/open-notebook",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://github.com/router-for-me/CLIProxyAPI",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://github.com/torvalds/linux/commit/ca62fc8c6b1841039aee6de1ef03c9863751ec04",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.servethehome.com/nvidia-updates-rubin-gpu-specs-as-first-production-hardware-arrives/",
-      "date": "2026-11-02"
-    },
-    {
-      "url": "https://www.sttinfo.fi/tiedote/72453208/seoul-semiconductor-ends-need-for-rare-earths-in-white-leds?publisherId=58763726",
-      "date": "2026-11-02"
-    },
-    {
       "url": "https://doi.org/10.1016/j.cmet.2026.09.020",
       "date": "2026-11-03"
     },
@@ -1144,6 +1096,58 @@
     {
       "url": "https://www.servethehome.com/centec-zx530s-24s2cq-review/",
       "date": "2026-11-23"
+    },
+    {
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/davila7/claude-code-templates",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/kubescape/kubescape",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/obra/superpowers",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/soxoj/maigret",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://ladybird.org/posts/alpha/",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "date": "2026-11-24"
+    },
+    {
+      "url": "https://z.ai/blog/glm-5.4",
+      "date": "2026-11-24"
     }
   ]
 }

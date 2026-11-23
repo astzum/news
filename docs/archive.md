@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Tue 10 Nov 2026](digests/2026-11-10.md) — Fable 5.2 ships cheaper; a number plate unlocks any of one automaker's cars
 - [Mon 09 Nov 2026](digests/2026-11-09.md) — A Firecracker guest escapes to host root; systemd takes Rust, but only at the leaves
 - [Sun 08 Nov 2026](digests/2026-11-08.md) — Libghostty 1.0 freezes its ABI; a content-free Android app bricks phones
 - [Sat 07 Nov 2026](digests/2026-11-07.md) — Claude Code put your email in the User-Agent; a $32M 65B model tops open-weight coding
