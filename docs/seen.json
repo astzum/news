@@ -2,54 +2,6 @@
   "_comment": "Rolling ledger of stories already sent. Pruned to 21 days by the generator. Do not hand-edit unless you want something to reappear.",
   "entries": [
     {
-      "url": "https://doi.org/10.1016/j.cmet.2026.09.020",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://github.com/JustVugg/colibri",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://github.com/NVIDIA/cuda-rust",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://github.com/max-sixty/worktrunk",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://github.com/p-e-w/heretic",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://lwn.net/Articles/1104653/",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://ubuntu.com/security/CVE-2026-98432",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.raspberrypi.com/news/price-rises-for-some-16gb-raspberry-pi-products/",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.servethehome.com/qualcomm-validates-hbc-stacked-memory-ahead-of-2027-dragonfly-ai250-sampling/",
-      "date": "2026-11-03"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
       "date": "2026-11-04"
     },
@@ -1148,6 +1100,38 @@
     {
       "url": "https://z.ai/blog/glm-5.4",
       "date": "2026-11-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.30835",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://openai.com/index/introducing-shirudo",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-026-11155-6",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.servethehome.com/asus-turbo-radeon-pro-ai-r9700-review/",
+      "date": "2026-11-25"
     }
   ]
 }
