@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://www.espn.com/nba/recap/_/gameId/401909905",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.espn.com/nba/recap/_/gameId/401909906",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.formula1.com/en/latest/article/mexico-city-lowdown-all-the-key-moments-as-antonelli-secures-maiden-title-and-verstappen-denies-ferrari-victory.3mPqECWFPlJsdg4jUOZUXz",
-      "date": "2026-11-03"
-    },
-    {
-      "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result",
-      "date": "2026-11-03"
-    },
-    {
       "url": "https://www.espn.com/nba/recap/_/gameId/401909914",
       "date": "2026-11-04"
     },
@@ -519,6 +503,26 @@
     {
       "url": "https://www.theguardian.com/sport/2026/nov/23/max-verstappen-red-bull-f1-formula-one-las-vegas-grand-prix",
       "date": "2026-11-24"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.espn.com/nba/recap?gameId=401910039",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.espn.com/nba/recap?gameId=401910045",
+      "date": "2026-11-25"
+    },
+    {
+      "url": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
+      "date": "2026-11-25"
     }
   ]
 }

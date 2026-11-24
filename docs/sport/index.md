@@ -6,6 +6,7 @@ title: "Sport"
 
 Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest first.
 
+- [Wed 25 Nov 2026](digests/2026-11-25.md) — Tarkowski's first red in 351 games as Brentford put four past Everton
 - [Tue 24 Nov 2026](digests/2026-11-24.md) — UK gets the 2035 Women's World Cup, Raya avoids surgery, Giddey's 22 assists
 - [Mon 23 Nov 2026](digests/2026-11-23.md) — Liverpool 4-0 United on Pochettino's debut, Hull shock Brighton, Verstappen wins Vegas
 - [Sun 22 Nov 2026](digests/2026-11-22.md) — Leeds hammer Chelsea 4-1, Arsenal draw at Newcastle, Verstappen inherits Vegas pole
@@ -19,6 +20,5 @@ Premier League, F1, NBA, NFL and the Tour — what happened overnight. Newest fi
 - [Sat 14 Nov 2026](digests/2026-11-14.md) — Rogers scores England's opener; Pochettino's United move official; Cunningham 52
 - [Fri 13 Nov 2026](digests/2026-11-13.md) — Carrick and Sage both sacked; Curry out a fortnight; Kane's record 126th cap
 - [Thu 12 Nov 2026](digests/2026-11-12.md) — Pochettino ready for United; Paul George's 36 settles the Tatum-Brown reunion
-- [Wed 11 Nov 2026](digests/2026-11-11.md) — Chelsea Women waste 32 shots in Gothenburg; Carrick's fate goes to Monaco
 
-[Archive →](archive.md) · 21 older
+[Archive →](archive.md) · 22 older
