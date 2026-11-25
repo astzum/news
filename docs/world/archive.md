@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Thu 12 Nov 2026](digests/2026-11-12.md) — Abu Dhabi talks yield a prisoner swap, Indonesia's VP quits, record fall in home lending
 - [Wed 11 Nov 2026](digests/2026-11-11.md) — Abu Dhabi talks resume, Spain shuts down over housing, Canberra moves on AI rules
 - [Tue 10 Nov 2026](digests/2026-11-10.md) — France names Iran's Revolutionary Guards over the fridge hacks; Nvidia probes its CEO
 - [Mon 09 Nov 2026](digests/2026-11-09.md) — COP31 opens with Australia presiding; Europe joins the Abu Dhabi talks
