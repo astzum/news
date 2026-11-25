@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Thu 12 Nov 2026](digests/2026-11-12.md) — Pochettino ready for United; Paul George's 36 settles the Tatum-Brown reunion
 - [Wed 11 Nov 2026](digests/2026-11-11.md) — Chelsea Women waste 32 shots in Gothenburg; Carrick's fate goes to Monaco
 - [Tue 10 Nov 2026](digests/2026-11-10.md) — João Pedro's quad injury leaked via Fantasy; Piastri splits from Webber; Reaves 43
 - [Mon 09 Nov 2026](digests/2026-11-09.md) — Chelsea done by one penalty at Sunderland; Norris wins, Mercedes take the constructors'
