@@ -6,6 +6,7 @@ title: "Daily Digest"
 
 AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 
+- [Thu 26 Nov 2026](digests/2026-11-26.md) — Nine more OpenAI proofs, Google factors unconditionally, and Lipton calls it pollution
 - [Wed 25 Nov 2026](digests/2026-11-25.md) — Two labs claim VP ≠ VNP; PyTorch's KL divergence is wrong; Stalwart replaces Exchange
 - [Tue 24 Nov 2026](digests/2026-11-24.md) — Huang is back at Nvidia; GLM-5.4 loops its layers; Ladybird ships an alpha
 - [Mon 23 Nov 2026](digests/2026-11-23.md) — Canary prompts catch three breached inference providers; BepiColombo makes orbit
@@ -19,6 +20,5 @@ AI, dev, homelab, hardware, and science news — one page a day. Newest first.
 - [Sun 15 Nov 2026](digests/2026-11-15.md) — Project Zero kills patch soak time, Blackwell fingerprints in Chinese models
 - [Sat 14 Nov 2026](digests/2026-11-14.md) — Gödel's workbooks yield 663 theorems, a 145B model on a laptop, RAID inside XFS
 - [Fri 13 Nov 2026](digests/2026-11-13.md) — Huang out at NVIDIA, Anthropic files to list, and a critical Apache HTTP/2 RCE
-- [Thu 12 Nov 2026](digests/2026-11-12.md) — AWS emulates itself locally; the M87 black hole ring survives an independent redo
 
-[Archive →](archive.md) · 54 older
+[Archive →](archive.md) · 55 older

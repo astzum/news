@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Thu 12 Nov 2026](digests/2026-11-12.md) — AWS emulates itself locally; the M87 black hole ring survives an independent redo
 - [Wed 11 Nov 2026](digests/2026-11-11.md) — AI agents proved Signal's real code secure; AMD's Venice ships at 256 cores
 - [Tue 10 Nov 2026](digests/2026-11-10.md) — Fable 5.2 ships cheaper; a number plate unlocks any of one automaker's cars
 - [Mon 09 Nov 2026](digests/2026-11-09.md) — A Firecracker guest escapes to host root; systemd takes Rust, but only at the leaves
