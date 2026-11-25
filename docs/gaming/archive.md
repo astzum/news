@@ -6,6 +6,7 @@ title: "Archive"
 
 ## November 2026
 
+- [Thu 12 Nov 2026](digests/2026-11-12.md) — Sony cancels Fairgames, Fortis Games shuts down, and Ocarina of Time sells 5.2m
 - [Wed 11 Nov 2026](digests/2026-11-11.md) — The EU moves on loot boxes; Rockstar's UK staff start voting on a union tomorrow
 - [Tue 10 Nov 2026](digests/2026-11-10.md) — Sega leaks 2.19m email addresses; the PlayStation Portal drops 'Remote' and gains storage
 - [Mon 09 Nov 2026](digests/2026-11-09.md) — Ottawa faces a petition to buy BioWare back; Epic finally publishes Fortnite's odds

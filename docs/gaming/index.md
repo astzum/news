@@ -6,6 +6,7 @@ title: "Gaming"
 
 Releases, reviews and the industry — short on purpose. Newest first.
 
+- [Thu 26 Nov 2026](digests/2026-11-26.md) — No console price cuts before 2028, and GTA 6 is steadier on Series X than PS5
 - [Wed 25 Nov 2026](digests/2026-11-25.md) — GTA 6 is PlayStation's biggest launch ever; ex-Respawn studio Gravity Well goes dark
 - [Tue 24 Nov 2026](digests/2026-11-24.md) — Epic cuts Blueprints from UE6 and bets AI will port your game; GTA 6's 2022 hacker walks
 - [Mon 23 Nov 2026](digests/2026-11-23.md) — Nicalis strips AI music from Binding of Isaac; GTA 6 ate a quarter of Comcast's network
@@ -19,6 +20,5 @@ Releases, reviews and the industry — short on purpose. Newest first.
 - [Sun 15 Nov 2026](digests/2026-11-15.md) — ARC Raiders passes 17m; some GTA 6 boxes have no code; Pioner shuts down
 - [Sat 14 Nov 2026](digests/2026-11-14.md) — Xbox turns 25 promising Wolfenstein 3; the id devs it cut built their own studio
 - [Fri 13 Nov 2026](digests/2026-11-13.md) — A third of devs laid off in two years; Nintendo pulls 217 repos off GitHub
-- [Thu 12 Nov 2026](digests/2026-11-12.md) — Sony cancels Fairgames, Fortis Games shuts down, and Ocarina of Time sells 5.2m
 
-[Archive →](archive.md) · 22 older
+[Archive →](archive.md) · 23 older
